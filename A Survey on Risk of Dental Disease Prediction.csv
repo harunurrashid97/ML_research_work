@@ -1,0 +1,888 @@
+Timestamp,1. Age?(বয়স),2. How do you brush?(আপনি কিভাবে ব্রাশ করেন?),3. How much time you take for brushing your teeth?(দাঁত ব্রাশ করার জন্য আপনি কত সময় নেন?),4. How many time you brush your teeth in a day?(দিনে আপনি কতবার দাঁত ব্রাশ করেন?),5. Do you brush your teeth after eating?(আপনি খাবার পরে দাঁত ব্রাশ করেন?),6. Do you brush your teeth before go to bed at night? (আপনি ঘুমানোর আগে দাঁত ব্রাশ করেন?),7. Do you smoke?(আপনি কি ধুমপান করেন?),8. Do you drink alcohol?(আপনি কি মদ্য পান করেন?),9. Do you drink tea/coffee regularly? (আপনি কি প্রতিদিন চা / কফি পান করেন?),10. How many cup of coffee/tea you take in a day?(একদিনে আপনি কত কাপ কফি / চা পান করেন?),11. Do you drink tea/coffee with sugar or without sugar?( আপনি কি চিনিসহ বা চিনি ছাড়া চা/কফি পান করেন?),12. Do you eat fast food regularly?(আপনি কি নিয়মিত ফাস্টফুড খান?),13. How much you like sugary food?(মিষ্টিযুক্ত খাবার আপনি কতটা পছন্দ করেন?),14. Do you eat sweet regularly?আপনি কি নিয়মিত মিষ্টিযুক্ত খাবার খান?),15. How many soda/cola you have in a week?(এক সপ্তাহে আপনার কতটি সোডা / কোলা পান করেন?),16. Do you open packets with your teeth?(আপনি কি দাঁত দিয়ে প্যাকেট খুলেন?), 17. Do you have habits of chewing pen/pencil?(আপনার কি কলম / পেন্সিল চিবানোর অভ্যাস আছে?),18. Do you have habits of nail biting?Or do you cut your nail with your teeth?(আপনার কি নখ কামড়ানোর অভ্যাস),19. Do you have habits of grinding teeth during sleep?(আপনার কি ঘুমের ভেতর দাঁতের শব্দ করা/নাকানোর অভ্যাস আছে? ),20. Do you have habits of tongue/lip biting?(আপনার কি জিভ / ঠোঁটের কামড়ানোর অভ্যাস আছে?),21. Do you brush your teeth too hard?(আপনি কি খুব জোরে দাঁত ব্রাশ করেন?),22. Do you use toothpick after eating?(আপনি খাওয়ার পরে টুথপিক ব্যবহার করেন?),23. Do you eat gummy candy/chewing gum regularly?(আপনি কি নিয়মিত ক্যান্ডি / চিউইং গাম খান?),"24. Do you eat betel leaf?(আপনি কি পান পাতা, সুপারি খান?)",25. How many times you eat betel leaf in a day?(একদিনে আপনি কতবার পান পাতা/সুপারি খান?),26. Do you have Diabetes?(আপনার ডায়াবেটিস আছে?)
+1/27/2020 13:34:01,41,,2-3 minutes,twice,No,Yes,No,No,Yes,2,with suger,No,high,Yes,1-5,Yes,No,Yes,No,No,No,Yes,No,No,none,No
+1/27/2020 14:25:55,22,,1-2 minutes,twice,No,Yes,No,No,Yes,2,with suger,No,less,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 14:38:53,23,,2-3 minutes,once,No,No,No,Yes,Yes,3,without suger,Yes,medum,Yes,5-10,No,No,No,No,Yes,Yes,Yes,No,No,2,Yes
+1/27/2020 16:25:53,23,,2-3 minutes,once,No,No,No,No,Yes,2,without suger,No,high,Yes,1-5,No,No,Yes,No,Yes,Yes,No,No,No,none,No
+1/27/2020 18:57:48,25,,more,more,No,No,sometimes,Yes,Yes,more,with suger,Yes,high,Yes,more,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,sometimes,more,No
+1/27/2020 18:58:35,25,,2-3 minutes,twice,Yes,Yes,sometimes,No,Yes,3,with suger,No,less,No,1-5,No,No,No,No,Yes,No,No,No,Yes,none,No
+1/27/2020 19:00:34,24,,3-6 minutes,once,No,No,Yes,No,Yes,2,with suger,No,high,No,1-5,Yes,No,Yes,No,Yes,Yes,No,No,sometimes,none,No
+1/27/2020 19:02:15,26,,1-2 minutes,twice,No,Yes,No,No,Yes,2,with suger,No,medum,No,1-5,No,Yes,No,No,No,Yes,Yes,No,Yes,2,No
+1/27/2020 19:09:21,24,,1-2 minutes,once,No,No,Yes,Yes,Yes,1,with suger,Yes,high,Yes,5-10,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 19:12:46,23,,2-3 minutes,once,No,No,No,No,Yes,2,with suger,No,medum,No,1-5,No,No,No,No,Yes,No,No,No,No,none,No
+1/27/2020 19:13:30,23,,1-2 minutes,once,No,No,sometimes,No,Yes,2,with suger,No,medum,No,1-5,Yes,No,No,No,Yes,No,No,No,sometimes,none,No
+1/27/2020 19:22:57,24,,2-3 minutes,twice,Yes,Yes,No,No,No,none,none,No,less,No,1-5,Yes,No,Yes,No,No,No,Yes,No,No,none,No
+1/27/2020 19:24:20,20,,1-2 minutes,twice,Yes,Yes,No,No,No,1,without suger,No,less,No,1-5,No,No,No,No,Yes,No,Yes,No,No,none,No
+1/27/2020 19:26:47,23,,3-6 minutes,twice,No,Yes,No,No,No,none,none,No,high,No,1-5,Yes,No,No,No,No,No,No,Yes,No,none,No
+1/27/2020 19:27:53,22,,2-3 minutes,twice,No,Yes,No,No,Yes,2,with suger,No,high,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 19:28:37,22,,1-2 minutes,twice,No,Yes,No,No,Yes,2,with suger,No,high,Yes,1-5,No,No,No,No,No,Yes,No,No,No,none,No
+1/27/2020 19:28:46,23,,2-3 minutes,once,No,No,No,No,Yes,2,with suger,Yes,high,Yes,5-10,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 19:33:34,23,,1-2 minutes,twice,No,Yes,sometimes,No,Yes,2,with suger,No,high,Yes,1-5,No,No,Yes,No,No,No,No,No,No,none,No
+1/27/2020 19:34:01,24,,3-6 minutes,once,No,No,No,No,No,1,with suger,No,less,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 19:41:01,24,,1-2 minutes,once,No,No,No,No,No,none,with suger,No,medum,No,1-5,Yes,No,Yes,No,No,No,No,No,No,none,No
+1/27/2020 19:41:48,23,,2-3 minutes,once,No,No,No,No,No,none,none,Yes,medum,No,1-5,No,No,No,No,Yes,Yes,No,No,No,none,No
+1/27/2020 19:44:51,23,,2-3 minutes,twice,No,Yes,No,Yes,No,none,none,Yes,less,No,1-5,Yes,Yes,Yes,No,No,No,Yes,Yes,No,none,No
+1/27/2020 19:53:08,21,,1-2 minutes,once,No,No,No,No,No,none,with suger,No,less,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 19:54:56,22,,1-2 minutes,once,No,No,No,No,No,none,with suger,Yes,less,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 19:55:11,22,,3-6 minutes,once,No,Yes,No,No,No,none,none,No,high,No,1-5,Yes,Yes,Yes,No,Yes,Yes,No,No,No,none,No
+1/27/2020 19:59:01,25,,2-3 minutes,once,No,No,No,No,Yes,4,with suger,Yes,medum,Yes,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:01:13,22,,1-2 minutes,once,No,No,No,No,Yes,1,with suger,Yes,less,Yes,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:02:10,20,,2-3 minutes,once,No,No,No,No,Yes,1,with suger,No,less,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:02:47,21,,2-3 minutes,once,No,No,No,No,Yes,2,with suger,No,medum,Yes,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:03:46,21,,1-2 minutes,once,No,No,No,No,Yes,4,with suger,No,high,No,1-5,Yes,No,Yes,No,No,No,No,No,No,none,No
+1/27/2020 20:04:44,24,,1-2 minutes,once,No,No,No,No,No,2,with suger,No,medum,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:08:06,22,,2-3 minutes,once,Yes,No,No,No,No,none,with suger,Yes,high,Yes,5-10,Yes,No,Yes,No,No,No,No,Yes,No,none,No
+1/27/2020 20:09:03,31,,2-3 minutes,twice,No,Yes,No,No,Yes,4,without suger,No,less,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:09:05,24,,2-3 minutes,twice,No,Yes,No,No,No,none,none,No,medum,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:10:13,22,,2-3 minutes,once,No,No,No,No,No,1,with suger,Yes,medum,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:10:22,24,,2-3 minutes,once,Yes,Yes,No,No,Yes,1,with suger,No,medum,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:11:50,24,,2-3 minutes,twice,No,No,No,No,Yes,2,with suger,Yes,high,No,1-5,No,No,No,No,No,No,Yes,No,No,none,No
+1/27/2020 20:13:53,32,,2-3 minutes,once,No,Yes,No,No,Yes,1,with suger,No,medum,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:13:55,23,,2-3 minutes,twice,No,Yes,sometimes,No,Yes,3,with suger,Yes,medum,No,1-5,Yes,No,Yes,No,No,No,Yes,No,No,none,No
+1/27/2020 20:17:10,21,,1-2 minutes,twice,No,Yes,No,No,No,2,with suger,No,high,Yes,1-5,No,Yes,No,No,No,No,No,No,No,none,No
+1/27/2020 20:18:42,21,,2-3 minutes,once,Yes,No,No,No,No,1,with suger,No,less,No,1-5,No,No,No,No,Yes,No,No,Yes,sometimes,none,No
+1/27/2020 20:20:38,22,,1-2 minutes,twice,Yes,No,No,No,Yes,1,with suger,No,medum,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:21:28,24,,1-2 minutes,once,Yes,No,sometimes,Yes,Yes,more,with suger,Yes,high,Yes,1-5,Yes,No,No,No,No,No,No,Yes,sometimes,none,No
+1/27/2020 20:21:34,23,,2-3 minutes,more,Yes,Yes,No,No,Yes,3,with suger,Yes,high,No,1-5,No,No,No,No,Yes,No,No,No,No,none,No
+1/27/2020 20:23:06,24,,2-3 minutes,twice,Yes,Yes,sometimes,No,Yes,1,with suger,No,less,No,1-5,No,No,Yes,No,Yes,Yes,No,No,No,none,No
+1/27/2020 20:28:45,23,,1-2 minutes,twice,Yes,No,No,No,No,1,with suger,No,medum,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:38:43,24,,2-3 minutes,once,No,No,No,No,Yes,2,with suger,No,medum,No,1-5,Yes,No,No,No,No,No,Yes,No,sometimes,none,No
+1/27/2020 20:44:43,19,,1-2 minutes,once,No,No,No,No,No,none,none,No,medum,No,1-5,Yes,No,No,Yes,No,No,No,No,No,none,No
+1/27/2020 20:49:58,22,,3-6 minutes,once,No,No,No,No,Yes,2,with suger,No,less,No,1-5,No,Yes,No,Yes,No,Yes,No,No,No,none,No
+1/27/2020 20:51:20,21,,2-3 minutes,once,No,No,No,No,No,none,none,Yes,high,Yes,1-5,No,Yes,Yes,No,Yes,No,No,No,No,none,Yes
+1/27/2020 20:54:04,23,,1-2 minutes,once,No,No,No,No,Yes,3,with suger,Yes,medum,Yes,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 20:58:58,29,,1-2 minutes,once,No,No,No,No,Yes,2,without suger,No,high,No,1-5,Yes,No,No,Yes,No,No,No,No,No,none,No
+1/27/2020 21:00:31,25,,3-6 minutes,once,No,No,Yes,No,No,1,with suger,No,high,No,1-5,No,No,No,No,Yes,No,No,No,No,none,No
+1/27/2020 21:01:02,23,,1-2 minutes,once,No,No,No,No,Yes,2,with suger,No,high,Yes,1-5,Yes,Yes,Yes,No,Yes,No,Yes,No,No,none,No
+1/27/2020 21:06:50,Twenty two,,2-3 minutes,twice,No,Yes,No,No,Yes,1,with suger,No,high,Yes,1-5,No,No,No,No,No,No,No,No,No,none,Yes
+1/27/2020 21:07:53,29,,1-2 minutes,twice,No,No,No,No,Yes,2,without suger,Yes,high,Yes,1-5,No,No,No,No,Yes,No,No,No,No,none,No
+1/27/2020 21:16:41,22,,3-6 minutes,once,No,Yes,No,No,Yes,1,with suger,Yes,medum,No,5-10,No,No,No,No,Yes,No,No,No,No,none,No
+1/27/2020 21:21:30,22,,1-2 minutes,once,No,No,No,No,No,1,with suger,No,less,No,1-5,Yes,No,Yes,No,No,No,No,Yes,No,none,No
+1/27/2020 21:24:56,24,,3-6 minutes,once,No,No,Yes,Yes,Yes,4,with suger,No,less,No,5-10,Yes,No,No,No,No,No,No,Yes,No,none,No
+1/27/2020 21:27:30,23,,2-3 minutes,more,Yes,Yes,Yes,No,No,none,with suger,Yes,high,Yes,1-5,Yes,No,No,No,No,No,No,Yes,No,none,No
+1/27/2020 21:32:01,22,,3-6 minutes,twice,Yes,Yes,No,No,Yes,3,with suger,No,medum,Yes,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 21:49:09,23,,2-3 minutes,twice,No,Yes,No,No,Yes,3,with suger,Yes,medum,No,1-5,Yes,No,No,No,No,No,No,No,sometimes,none,No
+1/27/2020 21:52:38,23,,1-2 minutes,twice,Yes,Yes,No,No,No,1,without suger,No,medum,No,1-5,Yes,No,No,No,No,No,No,No,sometimes,none,No
+1/27/2020 22:05:51,23,,1-2 minutes,twice,Yes,Yes,sometimes,No,Yes,1,with suger,Yes,medum,Yes,1-5,Yes,No,Yes,No,No,No,No,No,No,none,No
+1/27/2020 22:37:23,23,,2-3 minutes,twice,No,Yes,No,No,No,none,none,No,high,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/27/2020 23:03:07,22,,1-2 minutes,once,No,Yes,No,No,Yes,2,with suger,Yes,medum,Yes,1-5,Yes,No,No,No,Yes,Yes,No,No,No,none,No
+1/27/2020 23:14:39,23,,2-3 minutes,twice,No,Yes,No,No,No,1,with suger,No,medum,Yes,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 23:15:43,21,,1-2 minutes,once,No,Yes,sometimes,No,No,1,without suger,No,medum,Yes,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/27/2020 23:41:12,30,,2-3 minutes,once,Yes,No,sometimes,No,Yes,more,without suger,No,high,Yes,1-5,Yes,Yes,Yes,No,No,No,No,No,No,none,No
+1/28/2020 0:14:10,22,,1-2 minutes,more,Yes,Yes,sometimes,Yes,No,none,with suger,No,less,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/28/2020 0:18:48,23,,3-6 minutes,once,No,No,No,No,No,none,with suger,Yes,less,No,1-5,Yes,No,No,No,No,Yes,No,No,No,none,No
+1/28/2020 1:34:31,22,,1-2 minutes,twice,No,No,Yes,No,Yes,2,with suger,No,medum,Yes,1-5,Yes,No,No,No,No,Yes,No,No,No,none,No
+1/28/2020 9:49:54,25,,2-3 minutes,once,No,No,No,No,Yes,3,with suger,No,high,Yes,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/28/2020 12:21:40,22,,1-2 minutes,once,No,No,No,No,Yes,2,with suger,No,high,Yes,1-5,Yes,No,No,No,Yes,No,No,Yes,No,none,No
+1/28/2020 19:27:39,22,,3-6 minutes,twice,No,Yes,No,No,No,none,without suger,No,medum,No,5-10,No,Yes,Yes,No,No,No,No,Yes,No,none,Yes
+1/28/2020 20:34:29,23,,2-3 minutes,twice,Yes,Yes,No,No,Yes,4,without suger,No,less,No,1-5,No,No,Yes,No,No,No,No,No,No,none,No
+1/28/2020 20:48:31,22,,2-3 minutes,twice,No,No,No,No,No,1,with suger,No,medum,No,1-5,No,Yes,No,No,No,Yes,No,No,sometimes,none,No
+1/29/2020 8:46:48,21,,2-3 minutes,once,No,No,No,No,Yes,3,with suger,Yes,medum,Yes,1-5,No,No,No,No,No,No,Yes,No,No,none,No
+1/29/2020 17:22:11,20,,1-2 minutes,twice,Yes,Yes,No,No,No,1,without suger,No,less,No,1-5,No,No,No,No,Yes,No,Yes,No,No,none,No
+1/29/2020 17:24:30,24,,1-2 minutes,twice,No,Yes,No,No,Yes,2,with suger,Yes,medum,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/29/2020 17:25:31,30,,1-2 minutes,twice,Yes,Yes,No,No,Yes,more,without suger,No,less,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/29/2020 17:28:08,25,,1-2 minutes,once,No,No,Yes,Yes,Yes,2,with suger,Yes,high,Yes,1-5,Yes,Yes,No,No,No,No,No,No,No,none,No
+1/29/2020 17:29:45,22,,2-3 minutes,twice,No,Yes,No,No,No,1,with suger,No,medum,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/29/2020 17:30:17,24,,3-6 minutes,twice,No,Yes,Yes,Yes,Yes,2,with suger,No,high,No,1-5,Yes,No,No,No,Yes,No,No,No,No,none,No
+1/29/2020 17:32:00,27,,2-3 minutes,once,No,No,Yes,No,No,1,with suger,No,medum,No,1-5,No,No,No,No,No,No,No,No,sometimes,none,No
+1/29/2020 17:32:21,22,,3-6 minutes,twice,No,Yes,No,No,Yes,2,with suger,No,high,No,1-5,No,No,No,No,No,Yes,No,No,No,none,No
+1/29/2020 17:32:46,20,,2-3 minutes,twice,No,Yes,No,No,No,none,with suger,Yes,less,No,1-5,Yes,No,No,No,No,Yes,No,No,No,none,No
+1/29/2020 17:33:36,22,,1-2 minutes,once,No,No,No,No,Yes,3,with suger,Yes,medum,Yes,1-5,Yes,Yes,No,No,No,Yes,No,No,No,none,No
+1/29/2020 17:34:03,25,,1-2 minutes,once,No,No,Yes,Yes,Yes,4,with suger,Yes,high,Yes,1-5,Yes,No,No,No,No,No,No,Yes,sometimes,none,No
+1/29/2020 17:35:29,20,,2-3 minutes,twice,No,Yes,No,No,No,1,with suger,No,medum,No,1-5,Yes,No,No,No,No,No,No,No,sometimes,none,No
+1/29/2020 17:36:26,19,,3-6 minutes,once,No,Yes,No,No,Yes,1,with suger,Yes,medum,Yes,1-5,Yes,No,No,No,No,Yes,No,Yes,sometimes,none,No
+1/29/2020 17:39:29,23,,1-2 minutes,twice,No,Yes,No,No,Yes,1,without suger,No,less,No,1-5,Yes,No,No,No,No,No,Yes,No,No,none,No
+1/29/2020 17:43:58,23,,1-2 minutes,once,No,No,No,No,Yes,2,with suger,No,medum,No,1-5,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+1/29/2020 17:48:37,22,,3-6 minutes,twice,Yes,Yes,No,No,Yes,2,with suger,Yes,high,Yes,1-5,No,No,No,No,Yes,No,No,No,sometimes,none,No
+1/29/2020 17:50:38,22,,2-3 minutes,twice,No,Yes,Yes,No,Yes,2,with suger,No,less,Yes,1-5,Yes,No,No,No,No,No,No,No,sometimes,none,No
+1/29/2020 17:51:07,25,,1-2 minutes,twice,No,Yes,sometimes,No,No,none,with suger,Yes,medum,Yes,1-5,Yes,No,No,No,No,Yes,No,No,No,none,No
+1/29/2020 17:51:09,20,,2-3 minutes,twice,No,Yes,No,No,Yes,1,with suger,No,high,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/29/2020 17:52:04,24,,1-2 minutes,once,No,No,No,No,No,1,without suger,Yes,medum,Yes,1-5,No,No,No,Yes,No,No,No,No,No,none,No
+1/29/2020 17:53:07,20,,3-6 minutes,twice,Yes,Yes,No,No,Yes,3,with suger,Yes,medum,Yes,1-5,Yes,No,Yes,No,No,No,No,No,No,none,No
+1/29/2020 18:03:07,25,,1-2 minutes,once,No,No,sometimes,No,No,none,with suger,No,high,Yes,1-5,Yes,Yes,Yes,No,Yes,Yes,No,No,No,none,No
+1/29/2020 18:05:13,21,,1-2 minutes,twice,No,Yes,No,No,Yes,2,without suger,No,medum,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/29/2020 18:06:13,22,,2-3 minutes,twice,Yes,Yes,sometimes,Yes,No,none,with suger,Yes,high,Yes,1-5,No,No,No,No,No,No,Yes,No,No,none,No
+1/29/2020 18:10:31,20,,2-3 minutes,twice,Yes,Yes,No,No,No,1,with suger,No,medum,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/29/2020 18:34:47,22,,2-3 minutes,twice,Yes,Yes,No,No,No,none,with suger,No,medum,No,1-5,No,No,No,No,No,Yes,No,No,No,none,No
+1/29/2020 18:52:50,24,,1-2 minutes,twice,No,Yes,No,No,No,none,none,No,high,Yes,1-5,No,No,No,No,Yes,No,No,No,No,none,No
+1/29/2020 18:52:56,24,,1-2 minutes,twice,No,Yes,No,No,No,none,none,No,high,Yes,1-5,No,No,No,No,Yes,No,No,No,No,none,No
+1/29/2020 18:57:36,22,,1-2 minutes,once,No,No,sometimes,No,Yes,more,with suger,No,medum,Yes,1-5,Yes,No,Yes,No,Yes,No,No,Yes,No,none,No
+1/29/2020 19:00:26,23,,1-2 minutes,once,No,No,Yes,No,Yes,4,with suger,Yes,high,No,1-5,Yes,Yes,Yes,No,Yes,No,No,No,No,none,No
+1/29/2020 19:12:44,22,,3-6 minutes,more,No,Yes,sometimes,No,Yes,4,with suger,No,high,Yes,10-15,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+1/29/2020 19:14:41,19,,1-2 minutes,twice,Yes,Yes,No,No,Yes,more,with suger,No,medum,Yes,1-5,Yes,No,Yes,No,Yes,No,No,Yes,Yes,1,No
+1/29/2020 19:29:10,21,,3-6 minutes,twice,No,Yes,sometimes,Yes,Yes,2,with suger,Yes,medum,No,1-5,Yes,No,Yes,No,Yes,No,Yes,No,No,none,No
+1/29/2020 19:29:28,21,,1-2 minutes,once,No,No,No,No,No,1,with suger,No,high,No,1-5,Yes,No,No,Yes,No,No,No,No,No,none,No
+1/29/2020 19:38:05,21,,2-3 minutes,once,No,No,No,No,No,none,with suger,No,less,No,1-5,Yes,Yes,No,No,No,Yes,No,No,No,none,No
+1/29/2020 20:04:24,22,,2-3 minutes,twice,No,Yes,No,No,No,1,with suger,Yes,medum,Yes,1-5,Yes,No,No,No,Yes,No,No,Yes,No,none,No
+1/29/2020 20:16:42,22,,2-3 minutes,twice,No,Yes,No,No,No,none,with suger,No,medum,No,5-10,No,No,No,No,No,No,No,No,No,none,No
+1/29/2020 20:21:29,20,,more,twice,No,No,Yes,Yes,Yes,1,with suger,Yes,less,Yes,1-5,Yes,Yes,Yes,Yes,No,Yes,No,No,No,none,No
+1/29/2020 20:43:46,23,,1-2 minutes,twice,Yes,Yes,No,No,Yes,2,with suger,Yes,medum,No,1-5,No,No,No,Yes,Yes,Yes,No,No,sometimes,none,No
+1/29/2020 21:09:16,23,,2-3 minutes,once,No,No,No,No,Yes,4,with suger,Yes,high,Yes,5-10,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,3,No
+1/29/2020 21:26:15,24,,2-3 minutes,twice,Yes,Yes,No,No,Yes,2,without suger,No,less,No,1-5,No,No,No,Yes,No,No,No,No,No,none,No
+1/29/2020 21:26:30,22,,2-3 minutes,twice,No,Yes,Yes,Yes,Yes,2,with suger,Yes,medum,Yes,5-10,No,No,Yes,No,No,No,No,Yes,No,none,No
+1/29/2020 21:36:36,20,,2-3 minutes,twice,Yes,Yes,No,No,Yes,2,with suger,Yes,medum,No,5-10,Yes,No,No,No,No,No,Yes,Yes,sometimes,none,No
+1/29/2020 21:40:17,24,,1-2 minutes,once,Yes,No,Yes,Yes,No,1,with suger,No,high,No,1-5,Yes,No,Yes,No,No,No,No,No,No,none,No
+1/29/2020 21:48:02,23,,1-2 minutes,once,No,No,No,No,Yes,1,without suger,Yes,medum,No,1-5,Yes,Yes,Yes,No,Yes,No,No,No,No,none,No
+1/29/2020 21:54:36,22,,1-2 minutes,once,No,No,Yes,Yes,Yes,1,with suger,Yes,high,Yes,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/29/2020 22:16:26,20,,2-3 minutes,twice,No,Yes,No,No,No,none,with suger,Yes,less,No,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/29/2020 22:20:21,24,,more,twice,No,Yes,Yes,No,Yes,more,with suger,No,medum,Yes,1-5,No,No,No,No,No,No,Yes,No,No,none,No
+1/29/2020 23:02:36,24,,2-3 minutes,once,No,No,Yes,No,Yes,1,with suger,Yes,medum,No,1-5,No,No,Yes,No,No,No,No,No,No,none,No
+1/29/2020 23:21:32,24,,1-2 minutes,twice,No,Yes,No,No,Yes,2,with suger,Yes,less,No,1-5,No,No,No,No,No,Yes,No,No,No,none,No
+1/30/2020 0:00:36,23,,3-6 minutes,once,No,No,Yes,No,Yes,1,with suger,No,high,No,1-5,Yes,No,Yes,No,No,No,No,No,No,none,No
+1/30/2020 0:24:09,22,,2-3 minutes,twice,No,Yes,No,No,Yes,1,with suger,Yes,high,Yes,1-5,Yes,No,No,No,No,Yes,No,No,No,none,No
+1/30/2020 0:57:48,19,,3-6 minutes,twice,No,Yes,No,No,Yes,more,with suger,Yes,medum,No,1-5,Yes,No,No,No,No,No,No,Yes,sometimes,none,No
+1/30/2020 6:56:05,24,,1-2 minutes,once,No,No,sometimes,No,Yes,1,with suger,No,high,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/30/2020 9:21:49,24,,1-2 minutes,once,No,No,Yes,No,Yes,more,without suger,No,medum,Yes,1-5,Yes,No,No,No,Yes,No,No,Yes,No,none,No
+1/30/2020 10:34:20,21,,1-2 minutes,once,No,No,No,No,Yes,3,with suger,Yes,medum,Yes,1-5,Yes,No,Yes,No,No,No,Yes,Yes,sometimes,3,No
+1/30/2020 10:42:26,20,,2-3 minutes,twice,No,Yes,No,No,No,none,with suger,No,less,No,1-5,Yes,No,No,No,No,No,No,Yes,No,none,No
+1/30/2020 15:23:54,24,,2-3 minutes,twice,No,Yes,No,No,Yes,2,without suger,No,medum,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/30/2020 15:39:32,25,,2-3 minutes,twice,No,Yes,No,No,Yes,2,with suger,No,less,Yes,1-5,Yes,No,No,No,No,No,No,No,No,none,No
+1/30/2020 17:12:48,22,,2-3 minutes,once,No,No,No,No,Yes,3,with suger,No,high,Yes,10-15,No,No,Yes,No,Yes,No,Yes,Yes,No,none,No
+1/30/2020 18:06:06,22,,1-2 minutes,once,No,No,No,No,Yes,more,with suger,No,medum,Yes,more,Yes,No,No,No,No,Yes,No,No,No,none,No
+1/30/2020 18:10:35,32,,2-3 minutes,twice,No,Yes,No,No,No,1,with suger,No,medum,No,1-5,No,Yes,Yes,No,Yes,No,No,No,sometimes,none,No
+1/30/2020 18:11:35,22,,2-3 minutes,twice,No,Yes,No,No,No,1,with suger,No,medum,No,1-5,No,No,No,No,No,No,No,No,No,none,No
+1/30/2020 19:38:31,24,,1-2 minutes,twice,No,Yes,No,No,Yes,3,with suger,No,less,No,1-5,No,No,No,No,No,No,No,Yes,sometimes,none,No
+1/30/2020 21:25:22,24,,2-3 minutes,once,No,No,No,No,No,none,with suger,No,medum,No,1-5,No,No,No,No,Yes,No,No,No,No,none,No
+1/31/2020 0:06:36,22,,1-2 minutes,twice,No,No,No,No,Yes,3,with suger,No,medum,No,1-5,Yes,No,Yes,No,No,No,No,Yes,No,none,No
+1/31/2020 0:07:09,22,,1-2 minutes,twice,No,No,No,No,Yes,3,with suger,No,medum,No,1-5,Yes,No,Yes,No,No,No,No,Yes,No,none,No
+1/31/2020 0:59:27,17+,,2-3 minutes,twice,No,Yes,No,No,No,none,with suger,Yes,medum,No,1-5,Yes,Yes,No,No,No,No,No,Yes,No,none,No
+1/31/2020 1:01:18,17,,2-3 minutes,twice,No,Yes,No,No,No,none,with suger,Yes,medum,No,1-5,Yes,No,No,No,No,No,No,Yes,sometimes,none,No
+2/1/2020 10:31:33,22,,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,less,No,none,Yes,No,No,No,Yes,No,No,No,sometimes,none,No
+2/2/2020 17:40:15,37,,more,once,No,No,Yes,No,Yes,more,with sugar,No,medium,No,none,No,No,No,Yes,No,Yes,No,No,No,none,No
+2/2/2020 19:16:04,25,,1-2 minutes,once,No,No,Yes,No,Yes,3,with sugar,No,medium,No,1-4,Yes,No,Yes,No,Yes,No,Yes,No,No,none,No
+2/2/2020 19:16:51,25,,1-2 minutes,once,No,No,Yes,No,Yes,3,with sugar,No,medium,No,1-4,Yes,No,Yes,No,Yes,No,Yes,No,No,none,No
+2/2/2020 19:28:51,23,,3-4 minutes,twice,No,Yes,No,No,Yes,3,with sugar,No,medium,No,1-4,No,No,No,Yes,No,No,No,No,No,none,No
+2/2/2020 20:34:04,22,,3-4 minutes,once,No,No,No,No,Yes,2,with sugar,Yes,high,Yes,1-4,Yes,No,No,No,Yes,Yes,No,No,No,none,No
+2/2/2020 20:47:07,22,,3-4 minutes,once,Yes,No,No,No,Yes,2,with sugar,No,less,No,1-4,Yes,No,No,No,No,No,No,No,No,1,No
+2/2/2020 22:33:10,23,,3-4 minutes,once,No,No,sometimes,No,Yes,4,with sugar,No,medium,No,1-4,Yes,Yes,Yes,No,Yes,No,No,No,sometimes,none,No
+2/2/2020 22:39:12,25,,1-2 minutes,twice,No,Yes,No,No,Yes,3,with sugar,No,high,No,1-4,No,No,No,No,No,Yes,No,No,No,none,No
+2/2/2020 23:44:55,22,,5-6 minutes,once,No,No,No,No,Yes,more,with sugar,No,medium,No,10-15,Yes,No,No,No,No,No,No,Yes,No,none,No
+2/2/2020 23:45:12,23,,3-4 minutes,once,No,No,Yes,Yes,Yes,more,with sugar,No,medium,No,none,Yes,No,No,No,No,No,No,No,Yes,1,No
+2/3/2020 10:48:38,20,,1-2 minutes,once,No,No,sometimes,No,Yes,3,with sugar,Yes,high,Yes,5-9,Yes,Yes,Yes,No,Yes,No,No,Yes,No,none,No
+2/3/2020 18:55:54,25,,5-6 minutes,twice,No,Yes,Yes,No,Yes,3,with sugar,No,less,No,none,Yes,No,No,No,Yes,Yes,No,No,sometimes,1,No
+2/3/2020 20:59:35,22,,3-4 minutes,once,No,No,No,No,Yes,1,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+2/3/2020 23:33:05,22,,1-2 minutes,once,No,No,No,No,Yes,2,with sugar,Yes,medium,Yes,1-4,Yes,Yes,No,No,Yes,Yes,No,No,No,none,No
+2/4/2020 7:22:13,22,,1-2 minutes,twice,No,Yes,No,No,No,none,none,No,less,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+2/4/2020 12:43:36,23,,1-2 minutes,twice,No,Yes,Yes,No,Yes,more,with sugar,No,medium,No,5-9,No,No,No,No,No,Yes,Yes,No,No,none,No
+2/6/2020 21:30:53,23,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,1,without sugar,Yes,high,Yes,1-4,No,No,No,No,No,No,Yes,No,No,none,No
+2/6/2020 21:32:53,25,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,with sugar,Yes,medium,No,5-9,Yes,No,Yes,No,Yes,No,No,No,No,none,No
+2/8/2020 3:41:23,23,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,3,with sugar,Yes,high,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+2/8/2020 3:41:31,23,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,3,with sugar,Yes,less,No,1-4,Yes,No,No,Yes,Yes,Yes,No,No,No,none,No
+2/8/2020 3:52:04,18,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,1,with sugar,No,high,No,1-4,Yes,No,Yes,No,No,No,No,No,sometimes,1,No
+2/8/2020 4:19:16,23,with tooth brush,3-4 minutes,once,No,Yes,Yes,No,Yes,3,with sugar,No,medium,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+2/8/2020 4:44:40,21,with tooth brush,1-2 minutes,once,No,No,No,No,No,1,with sugar,No,medium,No,none,Yes,Yes,No,No,Yes,No,No,Yes,No,none,No
+2/8/2020 5:13:52,23,with tooth brush,3-4 minutes,once,No,No,No,No,No,3,without sugar,Yes,medium,No,1-4,Yes,Yes,Yes,No,Yes,No,No,No,No,none,No
+2/8/2020 5:17:24,20,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,No,high,Yes,5-9,Yes,No,No,No,No,No,No,No,No,none,No
+2/8/2020 5:32:11,20,with tooth brush,3-4 minutes,twice,Yes,Yes,sometimes,No,Yes,2,with sugar,No,medium,No,5-9,No,Yes,No,No,No,No,Yes,No,sometimes,none,No
+2/8/2020 5:48:47,21,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,2,with sugar,No,medium,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+2/8/2020 7:46:01,19,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,1,with sugar,No,less,No,1-4,No,Yes,No,No,No,No,Yes,Yes,No,none,No
+2/8/2020 8:10:20,23,with tooth brush,1-2 minutes,twice,Yes,Yes,sometimes,Yes,Yes,2,with sugar,No,medium,No,5-9,Yes,No,No,No,No,No,Yes,No,No,none,No
+2/8/2020 8:33:39,23,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,2,with sugar,No,medium,No,1-4,Yes,Yes,No,No,Yes,Yes,No,Yes,No,none,No
+2/8/2020 9:12:42,23,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,none,No,medium,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+2/8/2020 9:12:52,23,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,none,No,medium,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+2/8/2020 9:36:27,21,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,medium,No,none,No,No,No,No,No,No,No,No,No,none,No
+2/8/2020 9:42:02,22,with tooth brush,1-2 minutes,once,Yes,Yes,No,No,No,1,with sugar,No,medium,No,none,Yes,Yes,Yes,No,Yes,No,No,No,No,none,No
+2/8/2020 9:50:09,19,with tooth brush,3-4 minutes,once,Yes,Yes,No,No,Yes,2,without sugar,No,less,No,none,No,No,No,No,No,No,No,No,No,none,No
+2/8/2020 10:00:09,40,with miswak,5-6 minutes,more,Yes,Yes,No,No,Yes,2,with sugar,No,medium,No,none,Yes,No,Yes,No,No,No,Yes,No,No,none,No
+2/8/2020 10:00:13,18,with tooth brush,5-6 minutes,twice,No,Yes,No,No,Yes,3,with sugar,No,medium,No,1-4,No,No,No,No,No,No,No,No,Yes,1,No
+2/8/2020 10:08:46,23,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,No,1,with sugar,No,medium,No,1-4,No,Yes,No,No,Yes,No,No,No,No,none,No
+2/8/2020 10:22:28,20,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,more,with sugar,No,medium,No,none,No,No,No,No,No,No,No,No,No,none,No
+2/8/2020 10:30:22,22,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,more,with sugar,No,less,No,1-4,Yes,Yes,No,No,No,No,No,Yes,No,none,No
+2/8/2020 10:40:06,18,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,less,No,1-4,No,No,No,No,No,No,Yes,No,No,none,No
+2/8/2020 10:48:01,29,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,2,with sugar,Yes,medium,Yes,1-4,No,No,Yes,No,No,No,No,No,No,none,No
+2/8/2020 10:53:20,20,with tooth brush,3-4 minutes,twice,Yes,Yes,sometimes,No,Yes,more,with sugar,Yes,high,Yes,1-4,No,No,No,No,No,No,Yes,Yes,No,none,No
+2/8/2020 11:06:21,20,with tooth brush,1-2 minutes,once,Yes,Yes,No,No,Yes,2,with sugar,Yes,less,No,5-9,No,No,No,No,No,No,No,No,No,none,No
+2/8/2020 11:10:58,20,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,medium,No,1-4,Yes,No,No,No,No,Yes,No,No,No,none,No
+2/8/2020 11:54:09,20,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,high,Yes,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+2/8/2020 12:09:08,22,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,2,with sugar,Yes,high,Yes,1-4,Yes,No,No,No,No,Yes,No,No,No,none,No
+2/8/2020 12:25:17,27,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,2,without sugar,No,less,No,none,Yes,No,No,No,No,No,Yes,No,No,none,Yes
+2/8/2020 13:09:54,20,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,more,with sugar,Yes,high,Yes,1-4,Yes,No,No,No,No,No,No,Yes,sometimes,none,No
+2/8/2020 13:33:25,20,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,4,with sugar,Yes,high,Yes,1-4,Yes,No,Yes,No,Yes,Yes,Yes,Yes,sometimes,1,No
+2/8/2020 14:07:38,20,with tooth brush,5-6 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,Yes,high,No,1-4,Yes,Yes,No,Yes,No,No,No,No,No,none,No
+2/8/2020 15:15:32,24,with miswak,1-2 minutes,more,Yes,Yes,No,No,No,1,with sugar,No,medium,No,none,No,No,No,No,Yes,No,No,No,No,none,No
+2/8/2020 15:16:45,27,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,2,with sugar,Yes,medium,Yes,none,Yes,Yes,No,No,No,No,No,No,No,none,No
+2/8/2020 18:14:19,20,with tooth brush,1-2 minutes,once,No,Yes,No,No,Yes,1,with sugar,No,less,No,1-4,Yes,Yes,No,No,Yes,No,No,No,No,none,No
+2/8/2020 18:39:17,18,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,No,none,none,No,medium,No,none,Yes,No,No,No,No,No,No,No,No,none,No
+2/8/2020 21:06:28,23,with tooth brush,1-2 minutes,once,No,No,No,No,No,1,with sugar,No,medium,No,none,Yes,No,No,No,Yes,Yes,Yes,No,No,none,No
+2/8/2020 21:54:07,24,with tooth brush,1-2 minutes,once,Yes,Yes,No,No,Yes,2,with sugar,No,medium,No,none,Yes,Yes,No,No,Yes,No,No,No,No,none,No
+2/8/2020 22:06:26,21,with tooth powder,3-4 minutes,twice,No,No,No,No,Yes,1,with sugar,No,high,Yes,1-4,No,No,No,No,No,No,Yes,No,sometimes,none,No
+2/8/2020 23:22:12,22,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,2,with sugar,No,medium,Yes,1-4,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+2/8/2020 23:34:44,21,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,2,without sugar,No,medium,No,none,No,Yes,No,No,Yes,Yes,No,Yes,Yes,1,No
+2/9/2020 0:13:24,21,with tooth brush,3-4 minutes,once,No,No,No,No,No,1,with sugar,No,less,No,1-4,Yes,No,No,No,Yes,Yes,Yes,No,No,none,No
+2/9/2020 11:33:31,22,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,high,Yes,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+2/9/2020 13:19:12,22,with tooth brush,1-2 minutes,once,No,No,No,No,No,1,with sugar,No,less,Yes,none,Yes,Yes,Yes,No,Yes,Yes,Yes,No,sometimes,none,No
+2/9/2020 19:25:44,19,with tooth brush,1-2 minutes,once,Yes,Yes,No,No,No,2,with sugar,No,high,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+2/9/2020 20:02:51,Ata thik koro nah kn .. number system kro,with coal,1-2 minutes,once,Yes,Yes,No,Yes,Yes,3,with sugar,Yes,medium,Yes,5-9,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,2,Yes
+2/9/2020 20:03:34,Aikhane toh issa moto kisu likha jai,with coal,1-2 minutes,twice,Yes,Yes,No,No,No,3,without sugar,Yes,medium,Yes,10-15,Yes,Yes,Yes,No,No,No,No,Yes,No,2,No
+2/9/2020 20:04:51,Andaze dibo naki boyosh?,with tooth brush,5-6 minutes,twice,Yes,Yes,No,Yes,No,3,without sugar,No,medium,Yes,5-9,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,2,No
+2/9/2020 20:13:24,45,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,3,with sugar,No,medium,No,5-9,Yes,No,No,Yes,No,Yes,No,Yes,Yes,2,Yes
+2/9/2020 20:14:05,54,with tooth powder,3-4 minutes,twice,Yes,No,Yes,Yes,No,3,with sugar,No,medium,No,5-9,Yes,Yes,No,Yes,No,Yes,Yes,No,No,1,Yes
+2/9/2020 20:14:45,49,with coal,1-2 minutes,twice,No,No,Yes,No,No,3,none,Yes,medium,No,5-9,Yes,Yes,No,Yes,No,No,Yes,Yes,No,3,Yes
+2/9/2020 20:16:05,69,with tooth brush,1-2 minutes,twice,No,Yes,No,No,No,3,without sugar,No,medium,Yes,5-9,No,Yes,No,Yes,No,Yes,Yes,No,No,2,Yes
+2/9/2020 20:16:55,56,with tooth brush,3-4 minutes,twice,Yes,No,No,Yes,No,2,with sugar,Yes,medium,Yes,5-9,No,Yes,Yes,No,Yes,No,Yes,Yes,No,3,No
+2/9/2020 21:25:34,33,with tooth powder,3-4 minutes,twice,No,No,Yes,Yes,No,3,without sugar,Yes,medium,Yes,5-9,Yes,No,No,Yes,Yes,No,Yes,Yes,No,2,No
+2/9/2020 21:27:00,45,with tooth brush,3-4 minutes,twice,Yes,No,No,No,No,3,without sugar,Yes,medium,Yes,5-9,Yes,No,No,Yes,Yes,No,Yes,Yes,No,3,Yes
+2/9/2020 21:27:49,56,with tooth brush,3-4 minutes,twice,No,Yes,No,Yes,No,3,without sugar,Yes,medium,No,5-9,Yes,No,No,Yes,Yes,No,No,Yes,No,2,No
+2/9/2020 21:29:16,56,with tooth brush,3-4 minutes,twice,Yes,No,No,Yes,No,2,without sugar,No,medium,No,5-9,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,2,Yes
+2/9/2020 21:30:21,54,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,3,without sugar,Yes,medium,Yes,5-9,Yes,No,No,Yes,Yes,Yes,No,No,Yes,2,Yes
+2/9/2020 21:31:37,43,with tooth powder,3-4 minutes,twice,Yes,No,Yes,Yes,Yes,2,without sugar,No,medium,Yes,5-9,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,2,No
+2/9/2020 21:32:21,40,with tooth brush,3-4 minutes,twice,No,No,No,No,Yes,3,with sugar,Yes,medium,No,5-9,Yes,Yes,No,No,Yes,Yes,Yes,No,No,2,No
+2/9/2020 21:33:07,5,with coal,3-4 minutes,more,No,Yes,No,No,No,2,with sugar,No,medium,No,10-15,No,No,Yes,No,No,No,Yes,No,No,2,Yes
+2/9/2020 23:31:27,22,with tooth brush,3-4 minutes,once,No,No,No,No,No,1,with sugar,No,medium,No,none,No,No,No,Yes,No,No,No,No,No,none,No
+2/10/2020 7:38:39,23,with tooth brush,3-4 minutes,twice,No,Yes,No,No,No,none,with sugar,Yes,medium,No,none,Yes,No,No,No,No,No,No,No,No,none,No
+2/10/2020 11:05:30,24,with tooth brush,1-2 minutes,once,No,No,sometimes,No,Yes,1,with sugar,No,high,Yes,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+2/10/2020 17:27:37,22,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,Yes,1-4,No,No,No,No,No,No,No,No,No,none,No
+2/10/2020 21:01:05,23,with tooth brush,3-4 minutes,once,No,No,No,No,No,none,with sugar,Yes,less,No,none,No,No,No,No,Yes,Yes,No,No,No,none,No
+2/10/2020 23:35:19,22,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,Yes,1-4,No,No,No,No,No,No,No,No,No,none,No
+2/11/2020 11:10:27,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,No,none,none,No,medium,No,none,Yes,No,No,No,Yes,Yes,No,No,No,none,No
+2/11/2020 11:25:06,22,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,2,without sugar,No,medium,No,1-4,Yes,No,Yes,No,No,Yes,No,No,No,none,No
+2/11/2020 14:42:59,18,with tooth brush,3-4 minutes,once,No,No,No,No,No,none,with sugar,Yes,less,No,1-4,No,No,No,No,Yes,No,No,No,No,none,No
+2/11/2020 14:47:58,20,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,No,high,No,1-4,No,No,No,No,No,No,No,No,sometimes,none,No
+2/11/2020 15:53:58,23,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,with sugar,No,less,No,none,No,Yes,No,No,Yes,No,No,No,No,none,No
+2/11/2020 19:12:23,20,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,without sugar,No,less,No,1-4,No,Yes,No,No,No,No,No,No,No,none,No
+2/11/2020 19:19:26,23,with tooth brush,5-6 minutes,once,No,No,Yes,No,Yes,2,with sugar,No,high,No,1-4,No,No,No,No,Yes,Yes,Yes,No,No,none,No
+2/11/2020 19:51:18,22,with tooth brush,1-2 minutes,more,No,Yes,No,No,Yes,more,with sugar,Yes,medium,No,5-9,No,No,No,Yes,No,No,Yes,No,No,none,No
+2/11/2020 20:01:10,22,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,No,none,none,Yes,less,No,1-4,Yes,No,No,No,Yes,No,No,No,No,none,No
+2/11/2020 21:15:13,21,no specific,1-2 minutes,twice,No,Yes,No,No,Yes,more,with sugar,Yes,less,No,1-4,Yes,Yes,No,No,No,Yes,Yes,No,No,none,No
+2/11/2020 21:32:32,20,with tooth brush,3-4 minutes,once,No,Yes,No,No,No,1,with sugar,No,medium,No,1-4,No,No,No,No,No,No,No,No,sometimes,none,No
+2/11/2020 23:13:26,20,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,Yes,No,No,No,No,Yes,No,No,No,none,No
+2/12/2020 0:08:44,23,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,3,with sugar,Yes,medium,Yes,1-4,Yes,Yes,Yes,No,No,Yes,No,No,No,none,No
+2/12/2020 0:11:51,24,with tooth brush,1-2 minutes,once,No,No,Yes,Yes,Yes,1,with sugar,No,high,Yes,1-4,Yes,Yes,Yes,No,Yes,No,Yes,No,No,none,No
+2/12/2020 0:12:56,26,with tooth brush,3-4 minutes,once,No,No,Yes,No,Yes,more,with sugar,No,high,No,none,No,No,No,No,No,Yes,No,No,No,none,No
+2/13/2020 0:00:19,23,with tooth brush,3-4 minutes,once,Yes,No,No,No,Yes,3,with sugar,No,high,No,1-4,Yes,No,No,No,Yes,No,No,No,No,none,No
+2/13/2020 0:11:48,22,with tooth brush,1-2 minutes,twice,Yes,Yes,sometimes,No,Yes,3,with sugar,Yes,medium,No,1-4,Yes,No,No,No,No,No,Yes,No,No,1,No
+2/13/2020 11:09:34,23,with tooth brush,5-6 minutes,twice,Yes,Yes,Yes,No,Yes,3,with sugar,Yes,high,Yes,1-4,No,No,Yes,No,No,No,No,No,sometimes,none,No
+2/13/2020 12:08:15,22,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,without sugar,Yes,less,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+2/13/2020 12:09:55,22,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,without sugar,No,medium,No,1-4,Yes,No,No,No,Yes,No,No,No,No,none,No
+2/13/2020 12:10:42,23,with tooth brush,3-4 minutes,twice,No,Yes,Yes,Yes,Yes,3,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,No,No,sometimes,none,No
+2/13/2020 12:46:43,23,with tooth brush,3-4 minutes,twice,Yes,No,No,No,No,none,with sugar,No,medium,Yes,none,Yes,No,No,No,No,No,No,No,No,none,No
+2/14/2020 13:13:53,24,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,No,less,No,1-4,No,No,No,Yes,No,No,No,No,No,none,No
+2/14/2020 20:03:48,21,with tooth brush,1-2 minutes,once,Yes,No,sometimes,No,Yes,2,none,No,medium,No,1-4,No,No,No,No,No,No,No,No,Yes,more,No
+2/15/2020 11:45:25,13,with tooth brush,1-2 minutes,once,No,Yes,No,No,Yes,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,Yes,No,No,No,none,No
+2/15/2020 11:46:46,15,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,with sugar,Yes,medium,No,5-9,Yes,No,Yes,Yes,Yes,Yes,No,No,No,none,No
+2/15/2020 11:52:59,19,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,2,with sugar,Yes,high,Yes,5-9,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+2/15/2020 11:57:26,18,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,2,with sugar,No,medium,No,1-4,Yes,No,No,No,No,Yes,No,No,No,none,No
+2/15/2020 11:57:40,18,with tooth brush,1-2 minutes,more,Yes,Yes,sometimes,No,Yes,1,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,No,Yes,No,none,No
+2/15/2020 16:12:33,24,with tooth brush,1-2 minutes,twice,No,Yes,sometimes,No,Yes,3,with sugar,No,less,No,none,Yes,No,No,No,Yes,Yes,No,No,sometimes,none,No
+2/15/2020 19:16:14,22,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,none,No,medium,Yes,none,Yes,Yes,No,No,No,No,Yes,No,Yes,more,No
+2/15/2020 19:17:55,20,with tooth brush,5-6 minutes,once,No,No,No,No,Yes,2,without sugar,No,medium,No,1-4,Yes,No,No,No,No,No,Yes,Yes,No,none,No
+2/15/2020 19:21:35,21,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,with sugar,No,high,No,none,Yes,No,Yes,No,No,Yes,Yes,No,No,none,No
+2/16/2020 16:32:10,24,with tooth brush,5-6 minutes,once,No,Yes,Yes,Yes,Yes,more,with sugar,No,less,No,1-4,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/16/2020 17:08:53,21,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,2,with sugar,No,medium,No,none,Yes,No,Yes,No,No,No,No,No,No,none,No
+2/16/2020 19:55:46,21,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,4,with sugar,Yes,medium,Yes,10-15,No,No,No,No,Yes,No,No,Yes,No,none,No
+2/16/2020 23:06:55,22,with coal,5-6 minutes,twice,Yes,No,No,Yes,Yes,3,without sugar,No,medium,Yes,10-15,No,Yes,No,Yes,No,No,Yes,No,sometimes,3,Yes
+2/16/2020 23:12:46,23,with tooth brush,1-2 minutes,twice,Yes,No,No,Yes,Yes,2,without sugar,No,medium,Yes,10-15,Yes,No,Yes,Yes,No,Yes,No,Yes,No,3,Yes
+2/16/2020 23:21:35,24,with tooth brush,1-2 minutes,twice,No,Yes,No,No,No,2,without sugar,No,medium,Yes,1-4,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,2,No
+2/16/2020 23:22:58,34,with tooth powder,3-4 minutes,twice,No,Yes,No,Yes,No,3,without sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,3,Yes
+2/16/2020 23:33:26,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:33:26,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:33:26,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:33:26,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:33:26,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:33:26,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:33:26,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:33:26,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:33:27,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:33:27,32,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:18,45,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,No,No,Yes,No,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:34:42,40,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,Yes,Yes,No,Yes,Yes,No,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:35:40,53,with tooth brush,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,Yes
+2/16/2020 23:36:37,55,with miswak,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:36:37,55,with miswak,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:36:37,55,with miswak,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:36:37,55,with miswak,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:36:37,55,with miswak,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:36:37,55,with miswak,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:36:37,55,with miswak,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:36:37,55,with miswak,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:36:37,55,with miswak,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:37:57,38,no specific,1-2 minutes,once,No,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:38:44,27,no specific,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/16/2020 23:39:31,25,with tooth brush,3-4 minutes,twice,Yes,Yes,No,Yes,No,2,without sugar,Yes,medium,Yes,none,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,none,No
+2/17/2020 0:05:31,22,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:07,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:07,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:07,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:07,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:07,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:08,26,with tooth brush,3-4 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:46,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:47,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:20:47,35,no specific,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:02,48,with tooth powder,1-2 minutes,once,No,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:51,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:52,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:25:52,49,with tooth powder,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:26:53,28,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:27:41,17,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:28:16,19,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:10,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:29:59,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:00,54,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:30:45,58,with miswak,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 0:31:43,43,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,none,none,Yes,high,Yes,5-9,No,No,Yes,No,No,Yes,No,Yes,No,none,No
+2/17/2020 11:38:35,21,with tooth brush,1-2 minutes,twice,No,No,sometimes,No,Yes,more,with sugar,Yes,medium,Yes,more,Yes,No,No,No,No,Yes,No,Yes,Yes,1,No
+2/17/2020 14:35:43,18,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,2,with sugar,No,high,Yes,1-4,Yes,Yes,No,No,No,No,No,Yes,No,none,No
+2/17/2020 21:57:54,23,with tooth brush,3-4 minutes,twice,No,Yes,No,No,No,none,none,Yes,less,No,none,No,No,No,No,No,No,No,No,No,none,No
+2/18/2020 9:24:59,22,with tooth brush,3-4 minutes,more,Yes,No,No,No,No,none,none,No,less,No,1-4,Yes,Yes,No,No,Yes,No,No,No,No,none,No
+2/18/2020 22:42:33,22,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,3,with sugar,No,high,Yes,none,Yes,No,Yes,No,No,Yes,No,No,No,none,No
+2/19/2020 12:02:29,17,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,with sugar,Yes,medium,No,1-4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,sometimes,none,No
+2/19/2020 20:06:15,19,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,No,1,without sugar,No,medium,No,none,No,No,Yes,Yes,No,No,No,No,sometimes,none,Yes
+2/19/2020 20:08:29,22,with coal,3-4 minutes,twice,Yes,Yes,sometimes,Yes,Yes,3,with sugar,Yes,high,No,10-15,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,more,No
+2/19/2020 20:11:22,19,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+2/19/2020 20:21:02,22,with tooth brush,more,once,Yes,No,No,No,No,none,none,No,less,No,1-4,No,No,No,Yes,No,No,No,No,No,none,No
+2/19/2020 20:23:47,23,with tooth brush,3-4 minutes,twice,Yes,Yes,Yes,Yes,Yes,1,without sugar,Yes,medium,No,5-9,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,none,No
+2/20/2020 21:44:44,23,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,medium,No,1-4,No,No,No,No,No,No,No,No,sometimes,none,No
+2/20/2020 21:47:23,23,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,3,without sugar,Yes,less,No,more,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,Yes
+2/20/2020 21:49:26,24,with tooth brush,1-2 minutes,twice,No,Yes,No,No,No,none,none,No,medium,Yes,10-15,Yes,Yes,No,Yes,No,No,No,No,No,none,No
+2/20/2020 21:51:23,22,with coal,more,more,No,No,Yes,Yes,No,none,none,Yes,high,No,more,Yes,Yes,No,No,Yes,No,No,No,No,1,Yes
+2/20/2020 21:53:54,22,with tooth brush,1-2 minutes,once,Yes,No,No,No,Yes,4,with sugar,Yes,medium,No,1-4,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,none,No
+2/20/2020 22:16:20,23,with tooth powder,1-2 minutes,once,No,No,No,No,Yes,3,with sugar,Yes,medium,Yes,1-4,Yes,No,No,No,No,No,No,Yes,No,none,No
+2/20/2020 22:18:34,20,with tooth brush,1-2 minutes,twice,Yes,Yes,No,Yes,Yes,3,with sugar,No,medium,No,none,Yes,No,No,No,No,No,Yes,No,Yes,1,No
+2/20/2020 22:22:43,23,with tooth brush,1-2 minutes,twice,No,Yes,Yes,Yes,Yes,4,with sugar,No,medium,Yes,1-4,Yes,No,No,No,No,Yes,Yes,No,No,none,No
+2/20/2020 22:25:29,22,with tooth brush,3-4 minutes,once,No,No,Yes,Yes,Yes,1,with sugar,No,medium,No,1-4,Yes,Yes,Yes,No,No,Yes,No,No,No,none,No
+2/20/2020 22:28:10,21,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,Yes,high,No,1-4,No,No,Yes,Yes,Yes,Yes,No,No,Yes,2,Yes
+2/20/2020 22:30:07,20,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,less,No,1-4,No,No,No,No,No,Yes,No,No,No,none,No
+2/20/2020 22:32:06,22,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,No,none,none,Yes,less,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+2/20/2020 22:35:37,21,with tooth powder,1-2 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,Yes,medium,No,none,Yes,No,No,No,No,No,No,No,No,none,No
+2/20/2020 22:37:36,22,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,Yes,less,Yes,none,No,No,No,No,No,No,No,Yes,No,none,No
+2/20/2020 22:39:41,22,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,Yes,less,Yes,none,No,No,No,No,No,No,Yes,Yes,No,none,No
+2/20/2020 22:50:22,21,with tooth brush,3-4 minutes,twice,No,No,No,No,Yes,2,with sugar,No,high,No,none,Yes,No,No,No,No,No,No,No,sometimes,none,No
+2/20/2020 22:54:29,23,with tooth brush,3-4 minutes,once,No,No,Yes,No,Yes,2,with sugar,Yes,high,Yes,1-4,No,No,No,No,No,No,No,No,No,none,No
+2/20/2020 22:57:36,21,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,without sugar,No,medium,Yes,1-4,Yes,No,Yes,No,Yes,No,No,Yes,No,none,No
+2/20/2020 23:00:05,21,with tooth brush,1-2 minutes,once,Yes,No,sometimes,No,Yes,1,none,No,medium,No,1-4,No,No,No,No,No,No,No,No,Yes,1,No
+2/20/2020 23:05:40,23,with tooth brush,3-4 minutes,twice,No,Yes,Yes,No,Yes,more,with sugar,Yes,medium,Yes,5-9,Yes,No,No,No,No,No,No,No,No,none,No
+2/20/2020 23:07:53,24,with tooth brush,1-2 minutes,once,No,No,Yes,No,No,1,with sugar,No,high,Yes,1-4,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+2/20/2020 23:25:13,22,with tooth brush,5-6 minutes,more,Yes,No,No,No,No,none,none,No,less,No,1-4,Yes,Yes,No,No,Yes,Yes,No,No,No,none,No
+2/20/2020 23:27:16,22,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,Yes,high,Yes,none,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,none,No
+2/20/2020 23:29:28,22,with tooth brush,1-2 minutes,twice,No,No,No,Yes,Yes,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+2/20/2020 23:31:37,23,with tooth brush,3-4 minutes,once,No,No,No,No,No,none,with sugar,Yes,less,No,none,No,No,No,No,Yes,Yes,No,Yes,No,none,No
+2/20/2020 23:33:29,22,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,4,with sugar,Yes,medium,Yes,1-4,Yes,Yes,No,No,Yes,Yes,No,Yes,No,none,No
+2/20/2020 23:35:31,22,with tooth brush,3-4 minutes,twice,No,No,No,No,No,none,none,Yes,high,Yes,10-15,No,No,No,No,No,No,No,No,No,none,No
+2/20/2020 23:37:15,22,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+2/20/2020 23:39:49,24,with tooth brush,5-6 minutes,twice,No,Yes,No,No,Yes,1,with sugar,Yes,high,Yes,10-15,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,none,No
+2/20/2020 23:41:22,24,with tooth powder,5-6 minutes,once,No,No,No,No,Yes,3,without sugar,Yes,medium,Yes,1-4,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,none,No
+2/20/2020 23:42:50,25,with tooth brush,5-6 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,medium,Yes,5-9,Yes,No,No,Yes,No,No,No,No,No,none,No
+2/20/2020 23:44:15,25,with tooth brush,5-6 minutes,once,No,No,sometimes,No,Yes,1,with sugar,Yes,medium,Yes,5-9,Yes,No,No,No,Yes,Yes,No,Yes,No,none,No
+2/20/2020 23:45:38,24,with tooth powder,5-6 minutes,twice,No,Yes,No,No,No,none,none,Yes,high,Yes,1-4,Yes,No,No,Yes,Yes,Yes,No,Yes,sometimes,none,No
+2/20/2020 23:47:15,26,with tooth brush,5-6 minutes,more,Yes,Yes,No,No,Yes,more,with sugar,Yes,high,Yes,more,Yes,No,Yes,Yes,Yes,No,Yes,No,No,none,No
+2/20/2020 23:48:54,27,with tooth brush,3-4 minutes,once,No,No,Yes,No,Yes,more,with sugar,Yes,medium,Yes,more,No,No,No,Yes,No,Yes,Yes,Yes,sometimes,none,No
+2/20/2020 23:50:26,28,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,more,with sugar,Yes,less,No,5-9,No,No,No,No,No,No,No,Yes,No,none,No
+2/20/2020 23:51:39,28,with tooth brush,3-4 minutes,once,No,No,sometimes,No,Yes,more,with sugar,Yes,medium,Yes,more,Yes,No,No,No,No,Yes,Yes,No,No,none,No
+2/21/2020 23:17:05,24,with tooth brush,5-6 minutes,once,No,Yes,Yes,Yes,No,none,with sugar,Yes,medium,Yes,1-4,No,Yes,No,No,No,Yes,Yes,No,No,none,No
+2/21/2020 23:27:34,22,with tooth brush,3-4 minutes,once,No,No,sometimes,No,No,1,with sugar,No,medium,No,none,Yes,No,Yes,No,Yes,No,No,No,No,none,No
+2/21/2020 23:29:42,21,with tooth brush,3-4 minutes,once,No,No,No,No,No,none,with sugar,Yes,less,No,1-4,Yes,No,No,Yes,No,Yes,No,No,No,none,No
+2/21/2020 23:42:45,21,with tooth brush,1-2 minutes,twice,No,No,No,No,Yes,2,with sugar,Yes,medium,Yes,none,Yes,No,No,No,No,No,Yes,Yes,No,none,No
+2/22/2020 0:02:18,21,with tooth brush,1-2 minutes,twice,No,No,No,No,Yes,2,with sugar,Yes,medium,Yes,none,Yes,No,No,No,No,No,Yes,Yes,No,none,No
+2/22/2020 0:04:25,21,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,2,with sugar,No,medium,Yes,1-4,Yes,Yes,No,No,Yes,No,No,No,No,none,No
+2/22/2020 0:06:33,21,with tooth brush,5-6 minutes,once,Yes,No,No,No,Yes,2,none,Yes,high,Yes,5-9,Yes,No,No,No,Yes,No,Yes,No,No,none,No
+2/22/2020 0:08:29,20,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,with sugar,Yes,less,Yes,none,Yes,No,Yes,Yes,Yes,No,No,No,No,none,No
+2/22/2020 4:21:02,21,with tooth brush,3-4 minutes,once,No,No,No,No,No,1,with sugar,No,medium,Yes,1-4,No,No,No,No,Yes,No,No,No,No,none,No
+2/22/2020 4:24:07,21,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,more,with sugar,No,high,No,1-4,No,No,No,Yes,Yes,No,No,No,No,none,No
+2/22/2020 4:29:22,21,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,with sugar,No,medium,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+2/23/2020 19:23:35,24,with tooth brush,5-6 minutes,once,No,Yes,Yes,Yes,No,none,with sugar,Yes,medium,Yes,1-4,No,Yes,No,No,No,Yes,Yes,No,No,none,No
+2/23/2020 19:25:55,22,with tooth brush,3-4 minutes,once,No,No,sometimes,No,No,1,with sugar,No,medium,No,none,Yes,No,Yes,No,Yes,No,No,No,No,none,No
+2/23/2020 19:28:31,21,with tooth brush,3-4 minutes,once,No,No,No,No,No,none,with sugar,No,less,No,1-4,Yes,No,No,Yes,No,Yes,No,No,No,none,No
+2/23/2020 19:30:41,21,with tooth brush,1-2 minutes,twice,No,No,No,No,Yes,2,with sugar,Yes,medium,Yes,none,Yes,No,No,No,No,No,Yes,Yes,No,none,No
+2/23/2020 19:32:26,21,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,2,with sugar,No,medium,Yes,1-4,Yes,Yes,No,No,Yes,No,No,No,No,none,No
+2/23/2020 19:34:31,22,with tooth brush,5-6 minutes,once,Yes,No,No,No,Yes,2,none,Yes,high,Yes,5-9,Yes,No,No,No,Yes,No,Yes,No,No,none,No
+2/23/2020 19:38:18,21,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,with sugar,Yes,less,Yes,none,Yes,No,Yes,Yes,Yes,No,No,No,No,none,No
+2/23/2020 19:39:51,21,with tooth brush,3-4 minutes,once,No,No,No,No,No,1,with sugar,No,medium,Yes,1-4,No,No,No,No,Yes,No,No,No,No,none,No
+2/23/2020 20:05:31,21,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,more,with sugar,No,high,No,1-4,No,No,No,Yes,Yes,No,No,No,No,none,No
+2/23/2020 20:07:47,21,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,with sugar,No,medium,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+2/23/2020 20:12:33,22,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,2,with sugar,No,medium,No,1-4,No,No,No,No,Yes,Yes,No,No,No,none,No
+2/23/2020 20:15:39,21,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,without sugar,Yes,medium,No,none,No,Yes,Yes,No,No,No,No,No,No,none,No
+2/23/2020 20:17:57,20,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,more,with sugar,Yes,high,Yes,1-4,Yes,Yes,No,Yes,Yes,Yes,No,No,No,none,No
+2/23/2020 21:39:55,22,with tooth brush,3-4 minutes,once,No,No,sometimes,No,No,1,with sugar,No,high,No,1-4,Yes,No,No,No,Yes,Yes,No,No,No,none,No
+2/26/2020 21:25:01,24,with tooth brush,3-4 minutes,once,No,No,No,No,No,none,with sugar,No,medium,No,none,Yes,No,No,No,Yes,No,No,No,No,none,No
+2/26/2020 23:05:20,20,with tooth brush,1-2 minutes,twice,No,No,Yes,Yes,Yes,2,with sugar,Yes,high,Yes,1-4,Yes,No,No,No,Yes,Yes,Yes,No,sometimes,none,No
+2/27/2020 4:29:36,22,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,2,with sugar,No,high,Yes,1-4,No,No,No,No,Yes,Yes,No,Yes,No,none,No
+3/4/2020 9:25:02,22,with tooth brush,3-4 minutes,once,No,No,No,No,No,none,none,No,high,No,none,Yes,No,No,No,No,No,No,No,No,none,No
+3/4/2020 9:59:15,18,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,Yes,medium,Yes,none,Yes,No,No,No,No,No,No,No,No,none,No
+3/13/2020 19:00:59,19,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,without sugar,No,less,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/15/2020 23:11:53,20,with tooth brush,1-2 minutes,twice,No,Yes,Yes,No,Yes,2,with sugar,No,medium,No,5-9,Yes,No,No,No,No,No,No,Yes,No,none,No
+3/16/2020 18:26:00,21,with tooth brush,1-2 minutes,once,No,No,No,No,No,1,with sugar,Yes,less,No,none,Yes,No,No,No,Yes,No,No,No,No,none,No
+3/17/2020 23:52:40,22,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,No,1-4,Yes,Yes,Yes,No,No,Yes,No,No,No,none,No
+3/17/2020 23:55:58,21,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,more,with sugar,No,medium,No,5-9,No,Yes,Yes,No,Yes,Yes,No,Yes,No,none,No
+3/19/2020 12:27:35,22,with tooth brush,5-6 minutes,twice,Yes,Yes,sometimes,No,No,none,none,No,medium,No,none,No,No,No,No,No,Yes,No,No,No,none,No
+3/19/2020 12:28:42,20,with tooth brush,1-2 minutes,once,No,No,Yes,Yes,Yes,3,with sugar,Yes,medium,Yes,1-4,Yes,No,Yes,No,No,No,No,No,Yes,none,No
+3/19/2020 12:30:39,20,with tooth brush,1-2 minutes,once,No,No,No,No,No,1,with sugar,No,less,No,5-9,Yes,Yes,Yes,No,No,Yes,No,No,No,2,No
+3/19/2020 12:31:43,21,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,No,none,Yes,Yes,No,No,No,No,No,No,No,none,No
+3/19/2020 12:33:05,21,with tooth brush,1-2 minutes,once,No,Yes,No,No,Yes,more,with sugar,No,medium,No,1-4,Yes,Yes,Yes,No,No,No,No,Yes,No,none,No
+3/19/2020 12:34:36,20,with tooth brush,1-2 minutes,once,No,No,No,Yes,Yes,2,with sugar,Yes,medium,Yes,1-4,No,No,Yes,No,Yes,No,Yes,Yes,No,none,No
+3/19/2020 12:35:45,21,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,No,1-4,Yes,No,No,No,Yes,No,No,Yes,No,none,No
+3/19/2020 12:36:50,22,with tooth brush,3-4 minutes,once,Yes,No,sometimes,No,Yes,2,with sugar,No,medium,No,1-4,Yes,No,No,No,Yes,Yes,No,No,No,none,No
+3/19/2020 12:38:14,20,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,4,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/19/2020 12:39:27,22,with tooth brush,more,once,No,No,Yes,No,Yes,more,with sugar,No,medium,No,1-4,Yes,Yes,No,No,Yes,Yes,No,No,No,none,No
+3/19/2020 12:40:33,20,with tooth brush,more,once,No,No,No,No,No,1,without sugar,Yes,high,Yes,none,Yes,Yes,Yes,No,No,No,No,No,No,none,No
+3/19/2020 12:41:31,23,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,No,1,with sugar,No,medium,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/19/2020 12:42:32,20,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,4,with sugar,Yes,medium,No,1-4,Yes,No,Yes,No,No,No,No,No,No,none,No
+3/20/2020 11:09:49,21,with tooth brush,1-2 minutes,once,No,No,No,No,No,1,with sugar,Yes,high,Yes,1-4,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,none,No
+3/20/2020 11:10:54,21,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,Yes,medium,No,1-4,Yes,Yes,No,No,No,No,Yes,No,sometimes,none,No
+3/20/2020 11:11:48,21,with tooth powder,more,once,No,No,No,Yes,Yes,3,with sugar,Yes,less,No,1-4,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,none,No
+3/20/2020 11:12:35,21,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,with sugar,Yes,high,Yes,1-4,Yes,Yes,Yes,No,Yes,Yes,No,No,No,none,No
+3/20/2020 11:13:43,21,with tooth brush,1-2 minutes,more,No,No,No,No,No,none,with sugar,Yes,high,No,1-4,No,No,No,No,Yes,Yes,No,No,No,none,No
+3/20/2020 11:14:40,22,with tooth brush,3-4 minutes,once,No,No,Yes,No,Yes,2,with sugar,No,high,Yes,1-4,Yes,No,No,No,No,Yes,Yes,Yes,No,none,No
+3/20/2020 11:15:37,24,with tooth brush,3-4 minutes,twice,No,Yes,Yes,Yes,Yes,more,with sugar,No,high,Yes,none,Yes,No,No,No,No,Yes,No,No,No,none,No
+3/20/2020 11:16:36,22,with miswak,3-4 minutes,twice,No,Yes,No,No,Yes,3,with sugar,No,medium,No,5-9,No,No,Yes,No,Yes,Yes,No,Yes,No,none,No
+3/20/2020 11:17:18,22,with tooth brush,1-2 minutes,more,No,No,No,No,Yes,1,with sugar,No,medium,No,1-4,Yes,Yes,No,No,No,Yes,No,Yes,Yes,none,No
+3/20/2020 11:18:09,20,with tooth brush,3-4 minutes,twice,Yes,Yes,Yes,No,No,none,none,Yes,less,No,1-4,No,No,No,No,No,No,No,Yes,No,none,No
+3/20/2020 11:18:48,23,with tooth brush,1-2 minutes,once,No,No,sometimes,No,Yes,2,without sugar,No,medium,No,1-4,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,none,No
+3/20/2020 11:20:41,22,with tooth brush,3-4 minutes,twice,Yes,Yes,Yes,Yes,Yes,none,with sugar,Yes,less,No,1-4,Yes,No,Yes,Yes,No,Yes,Yes,Yes,sometimes,none,No
+3/20/2020 11:21:35,22,with tooth brush,1-2 minutes,once,No,No,Yes,Yes,Yes,1,with sugar,Yes,high,Yes,1-4,Yes,No,Yes,No,No,No,No,Yes,No,none,No
+3/20/2020 11:23:12,18,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,with sugar,No,high,Yes,none,No,No,No,No,No,No,No,No,No,none,No
+3/20/2020 11:24:05,21,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,high,Yes,1-4,Yes,No,Yes,No,No,No,No,No,No,none,No
+3/20/2020 11:25:01,20,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,medium,No,1-4,Yes,No,No,No,Yes,Yes,Yes,Yes,No,none,No
+3/20/2020 11:26:00,23,no specific,5-6 minutes,more,Yes,Yes,sometimes,No,Yes,2,without sugar,No,high,Yes,none,No,Yes,No,No,No,Yes,No,No,No,none,No
+3/20/2020 11:26:54,22,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,No,none,with sugar,Yes,medium,Yes,1-4,Yes,Yes,Yes,No,No,No,Yes,No,No,none,No
+3/20/2020 11:28:02,23,no specific,1-2 minutes,once,No,Yes,No,Yes,Yes,3,without sugar,No,medium,No,1-4,No,No,No,No,Yes,Yes,No,No,sometimes,none,No
+3/20/2020 11:29:13,20,with tooth brush,1-2 minutes,twice,Yes,Yes,Yes,No,No,none,none,No,medium,No,1-4,Yes,No,No,No,No,No,No,Yes,No,none,No
+3/20/2020 11:30:14,22,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,3,with sugar,Yes,medium,No,1-4,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+3/20/2020 11:31:36,23,with tooth brush,1-2 minutes,once,No,No,No,No,No,4,with sugar,No,medium,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/20/2020 11:32:34,21,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,less,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/20/2020 11:33:25,27,with miswak,3-4 minutes,once,No,No,No,Yes,Yes,3,with sugar,Yes,high,Yes,1-4,Yes,Yes,No,No,Yes,Yes,No,No,No,none,No
+3/20/2020 18:35:02,22,with tooth brush,1-2 minutes,twice,Yes,No,No,No,Yes,2,with sugar,No,medium,Yes,none,Yes,Yes,Yes,No,Yes,No,No,No,No,none,No
+3/20/2020 18:36:14,22,with tooth brush,3-4 minutes,once,No,No,sometimes,No,Yes,2,without sugar,No,medium,Yes,1-4,Yes,No,No,No,No,No,Yes,No,No,none,No
+3/20/2020 18:37:10,22,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,medium,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+3/20/2020 18:38:52,22,with tooth brush,1-2 minutes,once,No,No,No,No,No,1,with sugar,No,high,No,none,Yes,Yes,Yes,No,Yes,No,No,No,No,none,No
+3/20/2020 18:40:28,21,with tooth brush,1-2 minutes,once,No,No,Yes,No,No,none,with sugar,No,high,No,1-4,Yes,Yes,Yes,No,Yes,Yes,No,No,No,none,No
+3/20/2020 19:03:31,19,with tooth brush,1-2 minutes,twice,Yes,Yes,Yes,No,Yes,more,without sugar,No,less,No,1-4,No,No,No,No,Yes,No,No,Yes,No,none,No
+3/20/2020 19:04:28,20,with tooth brush,1-2 minutes,twice,Yes,Yes,Yes,No,No,1,with sugar,No,less,No,1-4,Yes,Yes,No,No,Yes,Yes,No,No,No,none,No
+3/20/2020 19:05:16,22,with tooth brush,1-2 minutes,twice,No,Yes,Yes,Yes,No,none,with sugar,No,high,No,1-4,Yes,No,Yes,No,Yes,No,Yes,No,No,none,No
+3/20/2020 19:06:04,21,with tooth brush,3-4 minutes,once,No,No,No,No,No,none,none,No,medium,No,10-15,No,No,No,No,No,No,No,No,No,none,No
+3/20/2020 19:06:50,22,with tooth brush,3-4 minutes,once,Yes,No,Yes,No,Yes,2,with sugar,No,medium,Yes,1-4,Yes,Yes,Yes,No,No,Yes,No,No,No,none,No
+3/20/2020 19:07:45,23,with tooth brush,5-6 minutes,twice,Yes,Yes,No,No,Yes,4,without sugar,No,medium,No,none,Yes,No,No,No,No,No,No,Yes,No,none,No
+3/20/2020 19:08:33,22,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,Yes,medium,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+3/20/2020 19:09:24,22,with tooth brush,5-6 minutes,once,No,No,No,No,No,1,with sugar,Yes,medium,No,5-9,Yes,No,Yes,No,Yes,No,No,No,No,none,No
+3/20/2020 19:10:18,21,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,with sugar,Yes,less,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 19:11:11,21,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,4,with sugar,Yes,high,Yes,1-4,Yes,No,No,Yes,No,No,No,No,No,none,No
+3/20/2020 19:12:31,21,with tooth brush,3-4 minutes,twice,No,Yes,No,No,No,none,without sugar,No,less,No,none,No,Yes,No,No,No,No,No,No,No,none,No
+3/20/2020 19:13:34,22,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,Yes,high,Yes,1-4,Yes,No,No,No,No,No,No,Yes,No,none,No
+3/20/2020 19:14:34,21,with tooth brush,3-4 minutes,once,Yes,Yes,No,No,Yes,3,with sugar,Yes,medium,No,1-4,No,No,No,No,No,No,No,Yes,No,none,No
+3/20/2020 19:15:44,20,with tooth brush,5-6 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,Yes,less,No,5-9,Yes,Yes,No,No,Yes,No,No,Yes,No,none,No
+3/20/2020 19:16:59,22,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,3,with sugar,No,high,Yes,1-4,Yes,Yes,No,No,Yes,Yes,No,No,No,none,No
+3/20/2020 19:18:29,20,with tooth brush,1-2 minutes,once,No,No,No,No,No,2,with sugar,Yes,medium,No,1-4,No,No,No,No,No,No,No,Yes,No,none,No
+3/20/2020 19:20:18,21,with tooth brush,1-2 minutes,once,Yes,No,No,No,No,none,with sugar,No,less,No,none,Yes,No,No,Yes,No,No,Yes,No,No,none,No
+3/20/2020 19:21:15,21,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,Yes,medium,Yes,1-4,Yes,No,No,No,Yes,Yes,Yes,Yes,No,none,No
+3/20/2020 19:22:16,22,with tooth brush,1-2 minutes,once,No,No,sometimes,No,Yes,3,with sugar,Yes,medium,No,none,Yes,No,No,No,No,No,No,Yes,sometimes,none,No
+3/20/2020 19:23:51,21,with tooth brush,3-4 minutes,once,No,No,No,No,No,1,with sugar,Yes,less,No,10-15,Yes,No,No,Yes,Yes,No,No,No,No,none,No
+3/20/2020 19:25:00,23,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,2,with sugar,Yes,less,No,1-4,No,No,No,No,No,No,Yes,No,No,none,No
+3/20/2020 19:26:24,21,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,Yes,more,Yes,Yes,No,No,No,No,No,Yes,No,none,No
+3/20/2020 19:28:34,23,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,2,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 19:30:02,23,with tooth brush,5-6 minutes,twice,Yes,Yes,No,No,No,none,none,No,medium,No,1-4,No,No,No,No,Yes,Yes,No,Yes,No,none,No
+3/20/2020 19:32:10,23,with miswak,3-4 minutes,twice,Yes,No,No,No,No,2,with sugar,No,high,No,1-4,No,No,No,No,No,No,Yes,No,No,none,No
+3/20/2020 19:33:09,21,with tooth brush,1-2 minutes,once,No,No,sometimes,Yes,Yes,1,with sugar,No,high,Yes,1-4,No,No,No,No,No,Yes,Yes,No,No,none,No
+3/20/2020 19:34:11,23,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,3,with sugar,Yes,medium,Yes,none,Yes,Yes,No,No,No,No,No,Yes,No,none,Yes
+3/20/2020 19:36:34,23,with tooth brush,1-2 minutes,once,No,Yes,Yes,No,Yes,1,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 19:37:31,21,with tooth brush,3-4 minutes,more,No,No,sometimes,Yes,Yes,more,without sugar,Yes,high,No,more,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,sometimes,more,No
+3/20/2020 19:39:03,21,with tooth brush,3-4 minutes,once,No,Yes,sometimes,Yes,Yes,3,with sugar,Yes,high,Yes,5-9,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 19:40:04,24,with tooth brush,3-4 minutes,twice,No,No,Yes,Yes,Yes,2,with sugar,Yes,less,No,1-4,No,No,No,No,No,No,No,Yes,No,none,No
+3/20/2020 19:41:01,23,with tooth brush,1-2 minutes,once,No,No,No,Yes,Yes,2,with sugar,Yes,medium,No,1-4,Yes,Yes,Yes,No,No,No,No,Yes,No,none,No
+3/20/2020 20:06:58,24,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,3,with sugar,Yes,medium,No,1-4,Yes,No,No,No,No,No,No,No,No,more,No
+3/20/2020 20:11:07,22,with tooth brush,1-2 minutes,twice,No,Yes,Yes,No,Yes,2,with sugar,No,high,Yes,1-4,No,No,No,No,No,No,No,No,No,none,No
+3/20/2020 20:12:25,22,with tooth brush,1-2 minutes,twice,No,No,No,No,Yes,3,with sugar,Yes,medium,No,5-9,Yes,No,Yes,No,No,No,Yes,No,No,none,No
+3/20/2020 20:13:56,20,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,1,with sugar,No,less,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 20:15:21,18,with tooth brush,3-4 minutes,once,No,No,No,No,No,1,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,Yes,No,No,none,No
+3/20/2020 20:16:38,20,no specific,1-2 minutes,twice,Yes,Yes,No,No,No,none,with sugar,No,less,No,1-4,Yes,No,No,No,Yes,Yes,No,No,No,none,No
+3/20/2020 20:17:53,19,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,1,with sugar,Yes,medium,Yes,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 20:19:18,20,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,No,none,none,No,medium,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/20/2020 20:20:34,22,with tooth brush,3-4 minutes,twice,No,Yes,No,No,No,1,with sugar,No,medium,No,none,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 20:21:50,20,with tooth brush,3-4 minutes,twice,Yes,No,No,No,Yes,1,with sugar,Yes,medium,No,none,Yes,Yes,Yes,No,No,Yes,Yes,No,No,none,No
+3/20/2020 20:23:13,22,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,medium,No,none,Yes,No,No,No,No,No,No,No,sometimes,none,No
+3/20/2020 20:25:00,18,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,1,with sugar,No,less,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 20:26:07,18,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,No,1,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 20:27:27,22,with tooth brush,1-2 minutes,once,No,No,sometimes,No,Yes,2,with sugar,No,high,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/20/2020 23:38:02,23,with tooth brush,5-6 minutes,once,No,No,No,No,Yes,2,without sugar,Yes,medium,No,1-4,Yes,No,No,No,Yes,Yes,No,No,No,none,No
+3/20/2020 23:44:05,23,with tooth brush,1-2 minutes,once,Yes,No,No,No,Yes,1,with sugar,No,less,No,none,Yes,Yes,No,No,Yes,No,No,No,No,none,No
+3/20/2020 23:45:12,22,with tooth brush,3-4 minutes,twice,Yes,No,sometimes,No,Yes,1,with sugar,No,medium,No,none,Yes,No,No,No,No,No,No,Yes,No,none,No
+3/20/2020 23:47:16,20,with tooth brush,3-4 minutes,twice,No,Yes,No,No,No,none,none,Yes,medium,No,1-4,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,none,No
+3/20/2020 23:48:57,24,with tooth brush,3-4 minutes,once,No,No,sometimes,No,No,none,with sugar,No,high,Yes,1-4,Yes,No,No,No,Yes,No,Yes,Yes,No,none,No
+3/20/2020 23:50:09,22,with tooth brush,5-6 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,No,high,Yes,1-4,Yes,Yes,No,No,No,No,No,No,No,none,No
+3/20/2020 23:51:22,21,with tooth powder,3-4 minutes,once,No,No,No,No,Yes,2,with sugar,No,high,Yes,1-4,No,Yes,No,No,Yes,No,No,No,No,none,No
+3/20/2020 23:59:08,21,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,2,with sugar,No,high,Yes,1-4,No,Yes,No,No,Yes,No,No,No,No,none,No
+3/21/2020 0:01:12,21,with tooth brush,3-4 minutes,once,No,No,Yes,No,Yes,1,with sugar,Yes,medium,No,5-9,Yes,No,No,No,Yes,No,No,No,No,none,No
+3/22/2020 20:16:53,22,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,No,1,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,No,No,No,none,No
+3/25/2020 17:05:00,23,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,none,none,No,less,No,none,Yes,Yes,Yes,No,No,No,No,No,No,none,No
+3/25/2020 18:28:40,23,with tooth brush,1-2 minutes,once,No,Yes,No,No,Yes,none,none,No,less,No,none,Yes,Yes,Yes,No,No,No,No,No,No,none,No
+3/25/2020 18:31:21,21,with tooth brush,3-4 minutes,twice,Yes,Yes,Yes,Yes,Yes,none,with sugar,No,high,Yes,none,Yes,No,No,No,Yes,No,No,No,No,none,No
+3/25/2020 18:34:16,21,with tooth brush,1-2 minutes,once,No,No,Yes,No,No,1,with sugar,Yes,high,No,1-4,Yes,No,No,No,Yes,No,No,No,No,none,No
+3/25/2020 18:36:54,21,with tooth brush,1-2 minutes,twice,Yes,Yes,No,Yes,Yes,1,with sugar,Yes,high,No,1-4,Yes,No,No,No,Yes,No,No,Yes,No,none,No
+3/25/2020 18:40:11,22,no specific,1-2 minutes,once,No,No,No,No,Yes,more,with sugar,No,medium,Yes,1-4,No,No,No,No,No,Yes,Yes,Yes,No,none,No
+3/25/2020 18:43:41,22,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,more,with sugar,Yes,medium,Yes,10-15,No,Yes,No,No,No,No,No,Yes,No,none,No
+3/25/2020 18:48:17,22,with tooth brush,3-4 minutes,twice,No,Yes,Yes,No,Yes,more,with sugar,No,medium,Yes,10-15,No,No,No,No,No,Yes,No,Yes,No,none,Yes
+3/25/2020 18:50:33,20,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,1,with sugar,No,medium,No,1-4,Yes,Yes,No,No,No,Yes,No,Yes,No,none,No
+3/25/2020 18:57:37,21,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,medium,No,5-9,Yes,No,Yes,No,Yes,No,No,No,No,none,No
+3/25/2020 19:00:35,22,no specific,3-4 minutes,twice,No,Yes,No,No,Yes,none,without sugar,No,less,No,5-9,Yes,No,No,Yes,No,No,No,No,No,none,No
+3/25/2020 19:02:55,21,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,more,with sugar,No,medium,No,5-9,No,Yes,No,Yes,Yes,Yes,No,Yes,No,none,No
+3/25/2020 19:16:09,22,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,No,1-4,Yes,Yes,Yes,No,No,Yes,No,No,No,none,No
+3/25/2020 19:20:42,22,with tooth brush,5-6 minutes,twice,Yes,Yes,No,No,No,none,with sugar,No,medium,No,1-4,Yes,No,No,No,No,Yes,Yes,No,No,none,No
+3/25/2020 19:22:59,21,with tooth brush,3-4 minutes,twice,No,No,Yes,Yes,Yes,2,with sugar,Yes,high,No,1-4,Yes,No,Yes,No,No,No,No,No,sometimes,none,No
+3/25/2020 19:25:57,23,with tooth brush,3-4 minutes,twice,Yes,Yes,Yes,No,Yes,3,with sugar,Yes,medium,Yes,1-4,Yes,No,No,No,Yes,Yes,Yes,Yes,sometimes,more,No
+3/25/2020 19:28:10,22,with tooth brush,3-4 minutes,more,Yes,Yes,sometimes,No,Yes,3,with sugar,Yes,medium,No,more,No,No,Yes,No,No,No,No,No,No,none,No
+3/25/2020 19:30:23,21,with tooth brush,more,once,No,No,No,No,No,none,with sugar,No,medium,No,1-4,No,No,Yes,No,No,No,No,No,No,more,No
+3/25/2020 19:32:21,21,with tooth brush,1-2 minutes,once,Yes,No,Yes,Yes,Yes,2,with sugar,No,medium,No,1-4,Yes,No,No,No,No,No,No,Yes,No,none,No
+3/25/2020 19:35:01,22,with tooth brush,5-6 minutes,twice,Yes,Yes,Yes,No,Yes,2,with sugar,No,medium,No,5-9,No,No,No,No,Yes,No,Yes,Yes,No,none,No
+3/25/2020 19:37:08,22,with tooth brush,1-2 minutes,twice,Yes,Yes,No,Yes,Yes,2,with sugar,No,medium,No,1-4,Yes,No,Yes,No,Yes,Yes,No,No,No,none,No
+3/25/2020 19:42:23,22,with tooth brush,more,once,No,No,Yes,No,No,none,with sugar,No,medium,No,none,No,No,Yes,Yes,Yes,No,No,No,No,none,No
+3/25/2020 19:55:12,25,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,more,with sugar,Yes,medium,Yes,1-4,Yes,No,No,No,No,No,No,Yes,No,none,No
+3/25/2020 19:57:22,22,with tooth brush,1-2 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,No,1-4,Yes,Yes,Yes,No,No,Yes,No,No,No,none,No
+3/25/2020 22:31:41,23,with tooth brush,1-2 minutes,once,No,No,sometimes,No,Yes,3,without sugar,No,less,No,none,No,No,Yes,No,No,Yes,No,No,No,none,No
+3/25/2020 22:32:33,21,with tooth brush,1-2 minutes,once,No,No,Yes,No,No,1,with sugar,No,less,No,1-4,Yes,No,Yes,No,No,No,No,No,sometimes,none,No
+3/25/2020 22:33:19,20,with tooth brush,3-4 minutes,twice,Yes,No,No,No,Yes,4,with sugar,No,less,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+3/25/2020 22:34:36,22,with tooth brush,1-2 minutes,twice,Yes,Yes,Yes,Yes,Yes,more,without sugar,No,less,No,more,Yes,No,No,No,No,No,No,No,sometimes,none,No
+3/25/2020 22:35:40,23,with tooth brush,more,twice,No,Yes,Yes,No,Yes,2,with sugar,No,less,No,5-9,Yes,No,No,No,No,Yes,Yes,No,No,none,No
+3/25/2020 22:36:31,23,with tooth brush,3-4 minutes,twice,Yes,Yes,Yes,No,No,none,none,No,less,No,none,Yes,No,No,No,No,Yes,Yes,No,No,none,No
+3/25/2020 22:37:16,23,with tooth brush,3-4 minutes,once,No,No,Yes,No,Yes,more,with sugar,No,high,No,1-4,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,none,No
+3/25/2020 22:47:05,21,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,3,with sugar,No,high,Yes,none,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+3/25/2020 22:49:41,21,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,4,with sugar,No,medium,No,none,Yes,No,No,No,No,No,No,No,Yes,1,No
+3/25/2020 22:51:35,22,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,No,1-4,No,Yes,Yes,No,No,Yes,No,No,No,none,No
+3/25/2020 22:53:14,21,with miswak,3-4 minutes,once,No,No,sometimes,No,Yes,1,with sugar,No,high,Yes,1-4,Yes,No,No,No,No,Yes,Yes,Yes,sometimes,1,No
+3/25/2020 22:54:01,21,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,3,with sugar,No,medium,No,5-9,Yes,Yes,Yes,No,No,No,No,No,No,none,No
+3/25/2020 22:54:56,22,with tooth brush,3-4 minutes,twice,Yes,Yes,sometimes,No,Yes,1,without sugar,No,medium,No,5-9,No,No,No,No,No,No,Yes,No,No,none,No
+3/25/2020 22:55:54,20,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,3,with sugar,Yes,high,Yes,1-4,Yes,Yes,Yes,No,Yes,Yes,No,No,No,none,No
+3/25/2020 22:56:57,20,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,Yes,medium,No,1-4,No,No,No,No,No,Yes,No,No,No,none,No
+3/25/2020 22:57:32,20,with tooth brush,5-6 minutes,once,No,No,No,No,Yes,3,with sugar,Yes,medium,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+3/25/2020 22:58:43,20,with tooth brush,1-2 minutes,once,No,No,Yes,Yes,Yes,3,with sugar,Yes,high,Yes,5-9,Yes,No,No,No,No,No,No,Yes,No,none,No
+3/25/2020 22:59:45,21,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,No,medium,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/25/2020 23:00:36,21,with tooth brush,5-6 minutes,twice,Yes,Yes,No,No,Yes,3,with sugar,No,medium,Yes,1-4,Yes,Yes,Yes,No,Yes,No,No,Yes,No,none,No
+3/25/2020 23:01:27,20,with tooth brush,more,once,No,No,No,No,Yes,3,with sugar,No,less,No,5-9,Yes,Yes,Yes,No,No,Yes,No,Yes,No,none,No
+3/25/2020 23:04:31,22,with tooth brush,3-4 minutes,twice,No,No,No,No,Yes,3,with sugar,No,high,Yes,1-4,No,No,Yes,No,No,No,No,No,No,none,No
+3/25/2020 23:05:25,21,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,1,with sugar,No,high,Yes,1-4,Yes,No,No,No,No,Yes,No,No,No,none,No
+3/25/2020 23:06:36,21,with coal,5-6 minutes,once,No,No,No,No,No,none,none,No,medium,No,1-4,No,No,No,No,No,No,No,No,sometimes,none,No
+3/25/2020 23:28:52,39,with coal,3-4 minutes,twice,Yes,Yes,Yes,Yes,Yes,more,without sugar,Yes,medium,Yes,5-9,Yes,Yes,Yes,Yes,No,No,No,No,No,3,Yes
+3/25/2020 23:31:21,140,with tooth powder,3-4 minutes,twice,No,Yes,sometimes,No,No,3,without sugar,No,medium,Yes,5-9,No,Yes,No,No,No,Yes,No,No,Yes,3,Yes
+3/26/2020 11:07:46,20,with tooth brush,3-4 minutes,twice,No,Yes,No,No,No,none,none,No,less,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/26/2020 11:08:44,25,no specific,3-4 minutes,twice,No,Yes,Yes,No,Yes,2,without sugar,Yes,medium,Yes,10-15,No,Yes,No,Yes,No,Yes,Yes,No,No,none,No
+3/26/2020 11:50:56,23,with tooth powder,3-4 minutes,twice,No,Yes,Yes,Yes,Yes,1,with sugar,Yes,high,Yes,none,No,No,No,No,No,No,Yes,Yes,Yes,1,Yes
+3/26/2020 11:57:43,21,with coal,1-2 minutes,once,Yes,No,Yes,No,Yes,1,with sugar,Yes,less,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/26/2020 11:59:13,22,no specific,more,more,Yes,Yes,No,No,Yes,1,with sugar,Yes,less,No,none,No,No,No,No,No,No,No,No,sometimes,none,Yes
+3/26/2020 12:00:28,22,no specific,1-2 minutes,twice,No,Yes,No,No,Yes,2,without sugar,No,medium,No,1-4,Yes,No,No,No,No,Yes,No,No,No,none,No
+3/26/2020 12:01:54,19,with miswak,3-4 minutes,more,Yes,Yes,No,No,No,none,with sugar,No,medium,No,none,No,No,No,No,No,No,No,No,No,none,Yes
+3/26/2020 12:03:31,19,with miswak,3-4 minutes,more,Yes,Yes,No,No,No,none,none,No,medium,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/26/2020 12:04:52,16,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,No,none,with sugar,No,medium,No,none,No,No,No,Yes,No,No,No,No,No,none,No
+3/26/2020 12:06:25,25,with coal,1-2 minutes,once,No,No,sometimes,No,No,none,none,No,less,No,none,No,No,Yes,No,No,No,No,No,No,none,Yes
+3/26/2020 12:08:46,2,no specific,1-2 minutes,once,No,No,sometimes,No,No,none,without sugar,No,high,No,none,No,No,Yes,No,Yes,No,Yes,No,No,none,No
+3/26/2020 12:10:43,19,no specific,more,twice,Yes,Yes,sometimes,No,Yes,1,without sugar,No,medium,No,none,No,Yes,No,No,No,No,No,No,sometimes,none,No
+3/26/2020 12:20:57,23,with tooth brush,1-2 minutes,more,No,Yes,Yes,No,No,none,without sugar,Yes,medium,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/26/2020 12:21:58,22,no specific,3-4 minutes,twice,Yes,Yes,No,No,Yes,3,without sugar,No,high,No,1-4,No,No,No,No,No,No,No,No,No,none,No
+3/26/2020 12:22:59,22,with tooth brush,3-4 minutes,twice,Yes,Yes,sometimes,No,Yes,1,without sugar,Yes,less,No,none,No,Yes,No,No,Yes,No,No,No,sometimes,none,No
+3/26/2020 12:24:43,22,with miswak,3-4 minutes,twice,Yes,Yes,No,No,Yes,2,without sugar,Yes,less,No,1-4,Yes,No,Yes,No,No,Yes,Yes,No,No,none,No
+3/26/2020 12:26:17,24,no specific,3-4 minutes,twice,Yes,Yes,No,No,Yes,1,with sugar,No,medium,No,5-9,No,No,No,Yes,No,Yes,No,No,sometimes,none,No
+3/26/2020 12:30:18,20,with tooth brush,3-4 minutes,twice,No,Yes,sometimes,No,Yes,more,with sugar,Yes,medium,Yes,5-9,Yes,No,No,No,No,No,Yes,No,No,none,No
+3/26/2020 12:30:25,20,no specific,more,more,Yes,Yes,sometimes,No,Yes,1,without sugar,Yes,less,No,1-4,No,Yes,No,Yes,No,No,No,No,sometimes,none,No
+3/26/2020 12:31:06,29,with tooth brush,5-6 minutes,more,Yes,No,Yes,No,Yes,more,with sugar,Yes,high,Yes,10-15,Yes,Yes,No,Yes,No,No,Yes,No,sometimes,none,No
+3/26/2020 12:32:03,31,no specific,5-6 minutes,more,Yes,Yes,sometimes,No,Yes,more,with sugar,Yes,medium,No,5-9,Yes,No,No,No,No,No,No,Yes,No,none,No
+3/26/2020 12:32:11,20,with tooth brush,1-2 minutes,once,No,No,No,No,Yes,none,with sugar,No,high,No,none,No,Yes,No,No,Yes,No,Yes,No,No,none,No
+3/26/2020 12:33:08,33,with tooth brush,5-6 minutes,twice,No,Yes,No,No,No,none,none,No,less,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/26/2020 12:33:35,19,no specific,3-4 minutes,twice,No,No,No,No,No,1,without sugar,Yes,less,Yes,5-9,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,Yes
+3/26/2020 12:34:37,35,no specific,more,more,Yes,Yes,Yes,Yes,Yes,3,with sugar,Yes,high,Yes,none,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,sometimes,none,Yes
+3/26/2020 12:35:56,28,with tooth powder,3-4 minutes,twice,Yes,Yes,No,No,Yes,1,with sugar,No,high,No,none,No,No,No,No,No,No,No,No,No,2,No
+3/26/2020 19:14:43,30,with tooth brush,3-4 minutes,once,No,Yes,Yes,No,Yes,3,without sugar,Yes,medium,No,1-4,Yes,No,No,Yes,No,Yes,Yes,No,Yes,1,No
+3/26/2020 20:47:14,24,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,1,without sugar,Yes,less,No,none,No,No,No,Yes,No,No,Yes,No,sometimes,none,No
+3/26/2020 20:48:42,21,with tooth powder,more,twice,Yes,Yes,No,No,Yes,2,with sugar,No,medium,No,none,Yes,Yes,No,No,No,No,No,No,sometimes,none,No
+3/26/2020 20:49:44,19,no specific,more,twice,Yes,Yes,No,No,Yes,1,without sugar,Yes,less,No,5-9,No,No,Yes,No,No,Yes,No,No,No,none,No
+3/26/2020 20:50:53,19,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,Yes,1,without sugar,Yes,less,No,none,Yes,No,No,No,No,No,No,No,No,none,No
+3/26/2020 20:52:07,22,with miswak,3-4 minutes,twice,Yes,Yes,No,No,Yes,none,without sugar,No,medium,No,5-9,No,No,No,Yes,No,No,No,No,No,none,Yes
+3/26/2020 20:52:58,22,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,2,with sugar,No,high,No,none,No,No,No,No,No,No,No,No,No,none,No
+3/26/2020 21:17:28,22,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,1,without sugar,Yes,less,No,1-4,No,No,No,No,Yes,No,Yes,No,No,none,No
+3/26/2020 21:19:05,35,no specific,more,twice,Yes,Yes,Yes,Yes,Yes,1,without sugar,Yes,medium,No,1-4,Yes,Yes,Yes,Yes,No,No,Yes,Yes,sometimes,1,Yes
+3/26/2020 21:20:03,23,with tooth powder,1-2 minutes,once,Yes,Yes,No,Yes,No,none,with sugar,Yes,medium,No,none,No,Yes,No,Yes,Yes,No,Yes,No,sometimes,none,No
+3/26/2020 21:55:26,22,with tooth brush,3-4 minutes,once,Yes,No,sometimes,No,No,1,with sugar,No,high,No,1-4,Yes,No,No,No,Yes,Yes,No,No,No,none,No
+3/26/2020 22:10:53,16,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,No,none,with sugar,No,medium,No,none,No,No,No,Yes,No,No,No,No,No,none,No
+3/26/2020 21:56:50,20,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,more,with sugar,Yes,high,No,1-4,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,none,No
+3/26/2020 22:12:20,23,with tooth powder,3-4 minutes,twice,Yes,Yes,No,No,No,2,none,Yes,high,No,10-15,Yes,Yes,No,No,No,No,No,No,No,2,No
+3/26/2020 22:13:39,23,with tooth brush,1-2 minutes,more,No,No,sometimes,No,No,1,none,No,high,Yes,1-4,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,none,No
+3/26/2020 23:00:13,22,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,2,with sugar,No,medium,Yes,1-4,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+3/26/2020 23:01:07,22,with tooth brush,3-4 minutes,twice,No,No,No,No,No,none,none,Yes,high,Yes,10-15,No,No,No,No,No,No,No,No,No,none,No
+3/26/2020 23:05:52,22,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,4,with sugar,Yes,medium,Yes,1-4,Yes,Yes,No,No,Yes,Yes,No,Yes,No,none,No
+3/26/2020 23:07:09,23,with tooth brush,5-6 minutes,once,No,No,No,No,Yes,2,without sugar,Yes,medium,No,1-4,Yes,No,No,No,Yes,Yes,No,No,No,none,No
+3/26/2020 23:08:35,23,with tooth brush,3-4 minutes,twice,No,Yes,No,No,Yes,1,without sugar,Yes,less,Yes,none,Yes,Yes,No,No,Yes,No,No,No,No,none,No
+3/26/2020 23:10:08,22,with tooth brush,1-2 minutes,twice,No,Yes,Yes,No,Yes,2,with sugar,No,high,Yes,1-4,No,No,No,No,No,No,No,No,No,none,No
+3/26/2020 23:10:29,14,no specific,more,more,No,No,Yes,Yes,Yes,more,none,Yes,high,Yes,more,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,more,No
+3/26/2020 23:11:00,26,with tooth brush,3-4 minutes,once,No,No,No,No,Yes,more,with sugar,No,high,Yes,none,Yes,No,No,No,No,No,Yes,Yes,No,none,No
+3/26/2020 23:11:16,19,with tooth brush,3-4 minutes,twice,Yes,Yes,No,No,No,2,with sugar,Yes,medium,Yes,1-4,Yes,No,No,No,No,Yes,No,Yes,No,none,No
+3/26/2020 23:12:49,23,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,more,without sugar,No,less,No,5-9,Yes,No,No,Yes,Yes,No,No,Yes,No,none,No
+3/26/2020 23:20:31,30,with tooth brush,1-2 minutes,once,No,No,Yes,No,Yes,more,with sugar,No,medium,Yes,10-15,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,more,No
+3/26/2020 23:26:54,26,with tooth brush,1-2 minutes,twice,Yes,Yes,No,No,Yes,2,with sugar,Yes,medium,No,1-4,No,No,No,No,No,No,No,Yes,No,none,No
+3/26/2020 23:33:44,29,with tooth brush,1-2 minutes,once,No,No,No,No,No,none,with sugar,No,high,No,1-4,Yes,No,No,No,No,No,No,Yes,No,none,No
+2/17/2020 23:06:55,22,with coal,1-2 minutes,twice,Yes,No,No,Yes,Yes,3,without sugar,No,medium,Yes,10-16,No,Yes,No,Yes,No,No,Yes,No,No,3,Yes
